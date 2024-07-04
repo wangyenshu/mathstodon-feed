@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-03T00:46:20.086Z</updated>
+    <updated>2024-07-04T00:46:26.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the real world @wlumley]]></title>
+        <id>https://mathstodon.xyz/@TonyVladusich/112725451688176285</id>
+        <link href="https://mathstodon.xyz/@TonyVladusich/112725451688176285"/>
+        <updated>2024-07-04T00:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the real world @wlumley
+- Tony Vladusich (@TonyVladusich) July 3, 2024]]></summary>
+        <author>
+            <name>@TonyVladusich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Dedekind's Nachlass (Cod. Ms. Dedekind III 1), screenshotted from https://www.youtube.com/live/XSaW_flm27A?feature=shared at time 7:10, talk by @estruppi That boxed phrase top right: "Am 10 ?Juni 1887 b?????" Can anyone make out the last word? I'm guessing 'Juni' by comparing the 'un' in 'Abbildung' and in 'und' as indicated. Elsewhere on the manuscript is written a "10 Juli 1887", but that's in what Emmylou has identified as a later addition.]]></title>
+        <id>https://mathstodon.xyz/@highergeometer/112725442177765813</id>
+        <link href="https://mathstodon.xyz/@highergeometer/112725442177765813"/>
+        <updated>2024-07-04T00:42:24.000Z</updated>
+        <summary type="html"><![CDATA[From Dedekind's Nachlass (Cod. Ms. Dedekind III 1), screenshotted from https://www.youtube.com/live/XSaW_flm27A?feature=shared at time 7:10, talk by @estruppi 
+That boxed phrase top right: "Am 10 ?Juni 1887 b?????"
+Can anyone make out the last word? I'm guessing 'Juni' by comparing the 'un' in 'Abbildung' and in 'und' as indicated. Elsewhere on the manuscript is written a "10 Juli 1887", but that's in what Emmylou has identified as a later addition.
+- theHigherGeometer (@highergeometer) July 3, 2024]]></summary>
+        <author>
+            <name>@highergeometer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:59:23, duration 266 secs, very bright, Magnitude -3.2]]></title>
+        <id>https://mathstodon.xyz/@ColinTheMathmo/112725385852429841</id>
+        <link href="https://mathstodon.xyz/@ColinTheMathmo/112725385852429841"/>
+        <updated>2024-07-04T00:28:04.000Z</updated>
+        <summary type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:59:23, duration 266 secs, very bright, Magnitude -3.2
+- Colin the Mathmo (@ColinTheMathmo) July 3, 2024]]></summary>
+        <author>
+            <name>@ColinTheMathmo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to Noga Alon https://zbmath.org/authors/alon.noga for being awarded the 2024 Wolf Prize in Mathematics! He is known for his work in combinatorics and computer science. His paper "Combinatorial Nullstellensatz" was reviewed in https://zbmath.org/0920.05026.]]></title>
+        <id>https://mathstodon.xyz/@zbMATH/112725347778142356</id>
+        <link href="https://mathstodon.xyz/@zbMATH/112725347778142356"/>
+        <updated>2024-07-04T00:18:23.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Noga Alon https://zbmath.org/authors/alon.noga for being awarded the 2024 Wolf Prize in Mathematics! He is known for his work in combinatorics and computer science. His paper "Combinatorial Nullstellensatz" was reviewed in https://zbmath.org/0920.05026.
+- zbMATH Open (@zbMATH) July 3, 2024]]></summary>
+        <author>
+            <name>@zbMATH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Congratulations to Adi Shamir https://zbmath.org/authors/shamir.adi for being awarded the 2024 #WolfPrize in Mathematics! He is known for his work in cryptography. 'A method for obtaining digital signatures and public-key cryptosystems' https://zbmath.org/0368.94005 (with R. L. Rivest and L. Adleman) contains his seminal work on the RSA cryptosystem.]]></title>
+        <id>https://mathstodon.xyz/@zbMATH/112725344724866052</id>
+        <link href="https://mathstodon.xyz/@zbMATH/112725344724866052"/>
+        <updated>2024-07-04T00:17:37.000Z</updated>
+        <summary type="html"><![CDATA[Congratulations to Adi Shamir https://zbmath.org/authors/shamir.adi for being awarded the 2024 #WolfPrize in Mathematics! He is known for his work in cryptography. 'A method for obtaining digital signatures and public-key cryptosystems' https://zbmath.org/0368.94005 (with R. L. Rivest and L. Adleman) contains his seminal work on the RSA cryptosystem.
+- zbMATH Open (@zbMATH) July 3, 2024]]></summary>
+        <author>
+            <name>@zbMATH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preliminary results for the first #AIMO progress prize is up: https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/leaderboard Provisionally at least, it appears that the winning program managed to correctly answer 29/50 of the private test questions, which is somewhat higher than expected.]]></title>
+        <id>https://mathstodon.xyz/@tao/112725293388349338</id>
+        <link href="https://mathstodon.xyz/@tao/112725293388349338"/>
+        <updated>2024-07-04T00:04:33.000Z</updated>
+        <summary type="html"><![CDATA[Preliminary results for the first #AIMO progress prize is up: https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize/leaderboard   Provisionally at least, it appears that the winning program managed to correctly answer 29/50 of the private test questions, which is somewhat higher than expected.
+- Terence Tao (@tao) July 3, 2024]]></summary>
+        <author>
+            <name>@tao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My eighth Math Research Livestream is now available on YouTube: https://youtu.be/aWNn_5ob448 This time, I took another look at my expository article explaining free algebras and presentations by way of division by zero. My goal was to put a new, more mathematically mature spin on my old construction from way back when, and I made some interesting progress. #math #livestream #Twitch #algebra #UniversalAlgebra #AbstractAlgebra #CategoryTheory]]></title>
+        <id>https://mathstodon.xyz/@caten/112725244186583141</id>
+        <link href="https://mathstodon.xyz/@caten/112725244186583141"/>
+        <updated>2024-07-03T23:52:03.000Z</updated>
+        <summary type="html"><![CDATA[My eighth Math Research Livestream is now available on YouTube:
+https://youtu.be/aWNn_5ob448
+This time, I took another look at my expository article explaining free algebras and presentations by way of division by zero. My goal was to put a new, more mathematically mature spin on my old construction from way back when, and I made some interesting progress.
+#math #livestream #Twitch #algebra #UniversalAlgebra #AbstractAlgebra #CategoryTheory
+- Charlotte Aten (@caten) July 3, 2024]]></summary>
+        <author>
+            <name>@caten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["By the middle of last month, the Digital Agency had scrapped all 1,034 regulations governing their use, except for one environmental stricture related to vehicle recycling." https://slashdot.org/story/24/07/03/1554247/japan-wins-war-on-floppy-disks]]></title>
+        <id>https://mathstodon.xyz/@blugol13/112725172373014643</id>
+        <link href="https://mathstodon.xyz/@blugol13/112725172373014643"/>
+        <updated>2024-07-03T23:33:47.000Z</updated>
+        <summary type="html"><![CDATA["By the middle of last month, the Digital Agency had scrapped all 1,034  regulations governing their use, except for one environmental stricture  related to vehicle recycling." https://slashdot.org/story/24/07/03/1554247/japan-wins-war-on-floppy-disks
+- bluegol (@blugol13) July 3, 2024]]></summary>
+        <author>
+            <name>@blugol13</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve Ballmer Surpasses Bill Gates In Wealth - Slashdot https://news.slashdot.org/story/24/07/03/009201/steve-ballmer-surpasses-bill-gates-in-wealth]]></title>
+        <id>https://mathstodon.xyz/@blugol13/112725163913339955</id>
+        <link href="https://mathstodon.xyz/@blugol13/112725163913339955"/>
+        <updated>2024-07-03T23:31:38.000Z</updated>
+        <summary type="html"><![CDATA[Steve Ballmer Surpasses Bill Gates In Wealth - Slashdot https://news.slashdot.org/story/24/07/03/009201/steve-ballmer-surpasses-bill-gates-in-wealth
+- bluegol (@blugol13) July 3, 2024]]></summary>
+        <author>
+            <name>@blugol13</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT 박상영 (SangYoung Park) on X: 서사적 갈등을 보는 것도 다 체력이 있어야하는 거다. 마음이 힘들면 아무것도 못 봄. 생각 없이 웃고 떠드는 예능만 볼 수 있음. https://x.com/novelistpark/status/1808559176119111809]]></title>
+        <id>https://mathstodon.xyz/@blugol13/112725146650974655</id>
+        <link href="https://mathstodon.xyz/@blugol13/112725146650974655"/>
+        <updated>2024-07-03T23:27:14.000Z</updated>
+        <summary type="html"><![CDATA[RT 박상영 (SangYoung Park) on X:
+서사적 갈등을 보는 것도 다 체력이 있어야하는 거다. 마음이 힘들면 아무것도 못 봄. 생각 없이 웃고 떠드는 예능만 볼 수 있음. https://x.com/novelistpark/status/1808559176119111809
+- bluegol (@blugol13) July 3, 2024]]></summary>
+        <author>
+            <name>@blugol13</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Replied to: Honestly just look at that nose I'm already obsessed]]></title>
         <id>https://mathstodon.xyz/@TaliaRinger/112719751971193081</id>
