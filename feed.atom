@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-06T00:44:41.082Z</updated>
+    <updated>2024-07-07T00:51:59.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Toronto for a few minutes]]></title>
+        <id>https://mathstodon.xyz/@laurentoget/112742423592695895</id>
+        <link href="https://mathstodon.xyz/@laurentoget/112742423592695895"/>
+        <updated>2024-07-07T00:40:59.000Z</updated>
+        <summary type="html"><![CDATA[Toronto for a few minutes
+- laurent oget (@laurentoget) July 6, 2024]]></summary>
+        <author>
+            <name>@laurentoget</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[an image]]></title>
+        <id>https://mathstodon.xyz/@Marcy/112742407925085011</id>
+        <link href="https://mathstodon.xyz/@Marcy/112742407925085011"/>
+        <updated>2024-07-07T00:37:00.000Z</updated>
+        <summary type="html"><![CDATA[- Marcy (@Marcy) July 6, 2024]]></summary>
+        <author>
+            <name>@Marcy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time. We're already suited up for heading into the woods!]]></title>
+        <id>https://mathstodon.xyz/@JordiGH/112742342231178705</id>
+        <link href="https://mathstodon.xyz/@JordiGH/112742342231178705"/>
+        <updated>2024-07-07T00:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time.
+We're already suited up for heading into the woods!
+- JordiGH (@JordiGH) July 6, 2024]]></summary>
+        <author>
+            <name>@JordiGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5]]></title>
+        <id>https://mathstodon.xyz/@ColinTheMathmo/112742176260903039</id>
+        <link href="https://mathstodon.xyz/@ColinTheMathmo/112742176260903039"/>
+        <updated>2024-07-06T23:38:06.000Z</updated>
+        <summary type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5
+- Colin the Mathmo (@ColinTheMathmo) July 6, 2024]]></summary>
+        <author>
+            <name>@ColinTheMathmo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm happy to announce that I now appear on Spectra's Outlist! https://lgbtmath.org/People.html I've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall. #math #lgbt #queer #academia #visibility]]></title>
+        <id>https://mathstodon.xyz/@caten/112742173259789473</id>
+        <link href="https://mathstodon.xyz/@caten/112742173259789473"/>
+        <updated>2024-07-06T23:37:20.000Z</updated>
+        <summary type="html"><![CDATA[I'm happy to announce that I now appear on Spectra's Outlist!
+https://lgbtmath.org/People.html
+I've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall.
+#math #lgbt #queer #academia #visibility
+- Charlotte Aten (@caten) July 6, 2024]]></summary>
+        <author>
+            <name>@caten</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replied to: This integral ain't happening today]]></title>
+        <id>https://mathstodon.xyz/@markusde/112742152798117209</id>
+        <link href="https://mathstodon.xyz/@markusde/112742152798117209"/>
+        <updated>2024-07-06T23:32:07.000Z</updated>
+        <summary type="html"><![CDATA[I'll proved two trivial lemmas, still a W
+- Classical Proover (@markusde) July 6, 2024]]></summary>
+        <author>
+            <name>@markusde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This integral ain't happening today]]></title>
+        <id>https://mathstodon.xyz/@markusde/112742150581901951</id>
+        <link href="https://mathstodon.xyz/@markusde/112742150581901951"/>
+        <updated>2024-07-06T23:31:34.000Z</updated>
+        <summary type="html"><![CDATA[This integral ain't happening today
+- Classical Proover (@markusde) July 6, 2024]]></summary>
+        <author>
+            <name>@markusde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#MetsVoteDansUnTitre On se calme et on vote frais à Saint Tropez]]></title>
+        <id>https://mathstodon.xyz/@antoinechambertloir/112742062037122629</id>
+        <link href="https://mathstodon.xyz/@antoinechambertloir/112742062037122629"/>
+        <updated>2024-07-06T23:09:03.000Z</updated>
+        <summary type="html"><![CDATA[#MetsVoteDansUnTitre 
+On se calme et on vote frais à Saint Tropez
+- ⏚ Antoine Chambert-Loir (@antoinechambertloir) July 6, 2024]]></summary>
+        <author>
+            <name>@antoinechambertloir</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[((¬a⇿¬b)⇾(b⇾b))]]></title>
+        <id>https://mathstodon.xyz/@logicbot/112742026779365070</id>
+        <link href="https://mathstodon.xyz/@logicbot/112742026779365070"/>
+        <updated>2024-07-06T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[((¬a⇿¬b)⇾(b⇾b))
+- Logic Bot (@logicbot) July 6, 2024]]></summary>
+        <author>
+            <name>@logicbot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨👉 9♠️ 👨👉 K♦️]]></title>
+        <id>https://mathstodon.xyz/@beggarmyneighbour/112742026691482909</id>
+        <link href="https://mathstodon.xyz/@beggarmyneighbour/112742026691482909"/>
+        <updated>2024-07-06T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[👨👉 9♠️
+👨👉 K♦️
+- Beggar-my-neighbour forever (@beggarmyneighbour) July 6, 2024]]></summary>
+        <author>
+            <name>@beggarmyneighbour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[https://sites.google.com/view/berkeleyleanseminar/resources]]></title>
         <id>https://mathstodon.xyz/@jpsaha/112736750336677105</id>
