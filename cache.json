@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@jeanas/112759415600619166",
+          "author": "@jeanas",
+          "description": "Je viens de publier un billet de blog sur l'email et ses problèmes : spam, complexité, absence de sécurité, centralisation, etc.\nhttps://jean.abou-samra.fr/blog/email/\n- Jean Abou Samra (@jeanas) July 9, 2024",
+          "link": "https://mathstodon.xyz/@jeanas/112759415600619166",
+          "publishedOn": "2024-07-10T00:42:17.000Z",
+          "wordCount": 125,
+          "title": "Je viens de publier un billet de blog sur l'email et ses problèmes : spam, complexité, absence de sécurité, centralisation, etc. https://jean.abou-samra.fr/blog/email/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@jared/112759367715124533",
+          "author": "@jared",
+          "description": "\"What was supposed to be roughly a week-long test flight to the ISS is now probably going to last months, as NASA and Boeing continue to delay Starliner’s return to Earth. They say they want to better understand a series of technical issues the spacecraft experienced since launching June 5 on its first crewed test flight to space.\"\n😮\n- Jared Davis (@jared) July 9, 2024",
+          "link": "https://mathstodon.xyz/@jared/112759367715124533",
+          "publishedOn": "2024-07-10T00:30:06.000Z",
+          "wordCount": 123,
+          "title": "\"What was supposed to be roughly a week-long test flight to the ISS is now probably going to last months, as NASA and Boeing continue to delay Starliner’s return to Earth. They say they want to better understand a series of technical issues the spacecraft experienced since launching June 5 on its first crewed test flight to space.\" 😮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@ColinTheMathmo/112759359753977221",
+          "author": "@ColinTheMathmo",
+          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:20, duration 396 secs, exceptionally bright, Magnitude -3.8\n- Colin the Mathmo (@ColinTheMathmo) July 9, 2024",
+          "link": "https://mathstodon.xyz/@ColinTheMathmo/112759359753977221",
+          "publishedOn": "2024-07-10T00:28:05.000Z",
+          "wordCount": 124,
+          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:20, duration 396 secs, exceptionally bright, Magnitude -3.8",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@TSOJ/112759248639134076",
+          "author": "@TSOJ",
+          "description": "Escape Games 166: Journal 29, Book 3\nhttps://theblackchamber552383191.wordpress.com/2024/07/10/escape-games-166-journal-29-book-3/\n#reviews #escaperoomgames\n- The Black Chamber (@TSOJ) July 9, 2024",
+          "link": "https://mathstodon.xyz/@TSOJ/112759248639134076",
+          "publishedOn": "2024-07-09T23:59:49.000Z",
+          "wordCount": 123,
+          "title": "Escape Games 166: Journal 29, Book 3 https://theblackchamber552383191.wordpress.com/2024/07/10/escape-games-166-journal-29-book-3/ #reviews #escaperoomgames",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112759206921993303",
+          "author": "@markusde",
+          "description": "I'm locked in (deciding to stay home instead of work out)\n- Capo (@markusde) July 9, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112759206921993303",
+          "publishedOn": "2024-07-09T23:49:13.000Z",
+          "wordCount": 123,
+          "title": "I'm locked in (deciding to stay home instead of work out)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@dougmerritt/112759190651973124",
+          "author": "@dougmerritt",
+          "description": "A comathematician is a device that turns cotheorems into ffee.\n- DougMerritt (log😅 = 💧log😄) (@dougmerritt) July 9, 2024",
+          "link": "https://mathstodon.xyz/@dougmerritt/112759190651973124",
+          "publishedOn": "2024-07-09T23:45:05.000Z",
+          "wordCount": 124,
+          "title": "A comathematician is a device that turns cotheorems into ffee.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@blugol13/112759189486512277",
+          "author": "@blugol13",
+          "description": "RT anna (arar) meow 𓃠 on X:\ni am tearing up https://t.co/Vi5GsBfdX3\nhttps://x.com/meowkoteeq/status/1810719656417677819\n- bluegol (@blugol13) July 9, 2024",
+          "link": "https://mathstodon.xyz/@blugol13/112759189486512277",
+          "publishedOn": "2024-07-09T23:44:47.000Z",
+          "wordCount": 125,
+          "title": "RT anna (arar) meow 𓃠 on X: i am tearing up https://t.co/Vi5GsBfdX3 https://x.com/meowkoteeq/status/1810719656417677819",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@units/112759185454186006",
+          "author": "@units",
+          "description": "Ich habe einen spannenden Artikel gefunden. #KI Deal zwischen #ElonMusk und #Oracle geplatzt https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100445338/elon-musk-milliarden-deal-seiner-firma-xai-mit-oracle-platzt.html\n- Units of Measurement (@units) July 9, 2024",
+          "link": "https://mathstodon.xyz/@units/112759185454186006",
+          "publishedOn": "2024-07-09T23:43:45.000Z",
+          "wordCount": 123,
+          "title": "Ich habe einen spannenden Artikel gefunden. #KI Deal zwischen #ElonMusk und #Oracle geplatzt https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100445338/elon-musk-milliarden-deal-seiner-firma-xai-mit-oracle-platzt.html",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@bradheintz/112759105252846644",
+          "author": "@bradheintz",
+          "description": "A thing I enjoy about Mathstodon on the web, but which is a disappointing experience on mobile and native clients, is the \\(L^AT_EX\\) support.\nLike, to the point where (after the summer term and this class are over) I'm half tempted to find an open source client and do something about it.\n- Brad Heintz (@bradheintz) July 9, 2024",
+          "link": "https://mathstodon.xyz/@bradheintz/112759105252846644",
+          "publishedOn": "2024-07-09T23:23:21.000Z",
+          "wordCount": 125,
+          "title": "A thing I enjoy about Mathstodon on the web, but which is a disappointing experience on mobile and native clients, is the \\(L^AT_EX\\) support. Like, to the point where (after the summer term and this class are over) I'm half tempted to find an open source client and do something about it.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@bharathk98/112759099504218705",
+          "author": "@bharathk98",
+          "description": "@johncarlosbaez I was wondering if you know anyone who could help answer the paper in this post:\nhttps://mathstodon.xyz/@bharathk98/112758573926127919\nI heard you're very kind and the best person to go to on this site.\nThank You,\n@bharathk98\n- Bharath Krishnan (@bharathk98) July 9, 2024",
+          "link": "https://mathstodon.xyz/@bharathk98/112759099504218705",
+          "publishedOn": "2024-07-09T23:21:54.000Z",
+          "wordCount": 122,
+          "title": "@johncarlosbaez I was wondering if you know anyone who could help answer the paper in this post: https://mathstodon.xyz/@bharathk98/112758573926127919 I heard you're very kind and the best person to go to on this site. Thank You, @bharathk98",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@markusde/112753770826085256",
           "author": "@markusde",
           "description": "Also I think I forgot to take pictures of the place after I moved in so Ann please don't fuck Alex so Alex doesn't fuck me 😳\n- Classical Proover (@markusde) July 8, 2024",
