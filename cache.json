@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@taatm/112765058699956100",
+          "author": "@taatm",
+          "description": "I don’t think Kerch will be the fist thing we see with #F16s in #Ukraine. They need to look after themselves first so I think they will be firing nothing but radar homing missiles for a few days.\nThe arrival of F16s will be marked by everything Russian with a radar blowing up. Then we’ll hit the Kerch Bridge.\n- The Animal and the Machine (@taatm) July 10, 2024",
+          "link": "https://mathstodon.xyz/@taatm/112765058699956100",
+          "publishedOn": "2024-07-11T00:37:24.000Z",
+          "wordCount": 128,
+          "title": "I don’t think Kerch will be the fist thing we see with #F16s in #Ukraine. They need to look after themselves first so I think they will be firing nothing but radar homing missiles for a few days. The arrival of F16s will be marked by everything Russian with a radar blowing up. Then we’ll hit the Kerch Bridge.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112765041193291898",
+          "author": "@markusde",
+          "description": "On the plus side, I guess it means this silly little idea is mine now. I'll have to find a use for it someday.\n- Suddenly Constructive Proover (@markusde) July 10, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112765041193291898",
+          "publishedOn": "2024-07-11T00:32:57.000Z",
+          "wordCount": 116,
+          "title": "Replied to: Oopsie poopsie I forgot that this is actually a job and I am actually an employee",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@KarenCampe/112765038872101075",
+          "author": "@KarenCampe",
+          "description": "Wow two puzzles in a row! \ncc: @ColinTheMathmo @amcsquared @geonz \n#CellTower 798\n➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️\nhttps://www.andrewt.net/puzzles/cell-tower/?p=798\n- Karen Campe (@KarenCampe) July 10, 2024",
+          "link": "https://mathstodon.xyz/@KarenCampe/112765038872101075",
+          "publishedOn": "2024-07-11T00:32:21.000Z",
+          "wordCount": 123,
+          "title": "Wow two puzzles in a row! cc: @ColinTheMathmo @amcsquared @geonz #CellTower 798 ➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️ https://www.andrewt.net/puzzles/cell-tower/?p=798",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@taatm/112765004069438948",
+          "author": "@taatm",
+          "description": "#F16s in #Ukraine are a game changer, but the speed of this relates to the numbers:\nhttps://everythingdashboard.net/f16s/\n- The Animal and the Machine (@taatm) July 10, 2024",
+          "link": "https://mathstodon.xyz/@taatm/112765004069438948",
+          "publishedOn": "2024-07-11T00:23:30.000Z",
+          "wordCount": 127,
+          "title": "#F16s in #Ukraine are a game changer, but the speed of this relates to the numbers: https://everythingdashboard.net/f16s/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@ColinTheMathmo/112764845085113927",
+          "author": "@ColinTheMathmo",
+          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 01:13:14, duration 398 secs, exceptionally bright, Magnitude -3.9\n- Colin the Mathmo (@ColinTheMathmo) July 10, 2024",
+          "link": "https://mathstodon.xyz/@ColinTheMathmo/112764845085113927",
+          "publishedOn": "2024-07-10T23:43:04.000Z",
+          "wordCount": 124,
+          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 01:13:14, duration 398 secs, exceptionally bright, Magnitude -3.9",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@isomorphismes/112764810828137801",
+          "author": "@isomorphismes",
+          "description": "Natural materials like collagen, elastin, and resilin store energy in coils (or perhaps nets).\nThe total work which can be stored in, for example, a bowstring tendon, is not equal to the amount of work which can be got out of the stored energy.\nhttps://youtu.be/rLeFE93QDGU?si=Yj-3AAH54xa5pb8N\nTensility, ductility, plasticity, elasticity, stored energy and fracture make for nice everyday biological examples of some familiar basic concepts in differential geometry and algebraic topology.\n- isomorphismes (@isomorphismes) July 10, 2024",
+          "link": "https://mathstodon.xyz/@isomorphismes/112764810828137801",
+          "publishedOn": "2024-07-10T23:34:22.000Z",
+          "wordCount": 120,
+          "title": "Natural materials like collagen, elastin, and resilin store energy in coils (or perhaps nets). The total work which can be stored in, for example, a bowstring tendon, is not equal to the amount of work which can be got out of the stored energy. https://youtu.be/rLeFE93QDGU?si=Yj-3AAH54xa5pb8N Tensility, ductility, plasticity, elasticity, stored energy and fracture make for nice everyday biological examples of some familiar basic concepts in differential geometry and algebraic topology.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/764/803/544/969/583/original/249b10e890dd5108.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112764676000624434",
+          "author": "@logicbot",
+          "description": "((¬a⇿(a∨¬a))∨a)\n- Logic Bot (@logicbot) July 10, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112764676000624434",
+          "publishedOn": "2024-07-10T23:00:04.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇿(a∨¬a))∨a)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112764675902874792",
+          "author": "@beggarmyneighbour",
+          "description": "👨👉 A♥️\n- Beggar-my-neighbour forever (@beggarmyneighbour) July 10, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112764675902874792",
+          "publishedOn": "2024-07-10T23:00:03.000Z",
+          "wordCount": 116,
+          "title": "👨👉 A♥️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@matthewconroy/112764666223249149",
+          "author": "@matthewconroy",
+          "description": "@joel Hey Joel! Thanks for the postcards! I like the \"Trailside\" gas station one especially.  I've been meaning to make some postcards of my art for some time. Do you print the postcards on your own printer, or use a service? Cheers!\n- Matthew Conroy (@matthewconroy) July 10, 2024",
+          "link": "https://mathstodon.xyz/@matthewconroy/112764666223249149",
+          "publishedOn": "2024-07-10T22:57:35.000Z",
+          "wordCount": 121,
+          "title": "@joel Hey Joel! Thanks for the postcards! I like the \"Trailside\" gas station one especially. I've been meaning to make some postcards of my art for some time. Do you print the postcards on your own printer, or use a service? Cheers!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@varikvalefor/112764596911850375",
+          "author": "@varikvalefor",
+          "description": "ni'o la .varik. cu nelci lo xriso je lijda je cu tolnei lo so'i xriso lijda\n- la .varik. .VALefor. (@varikvalefor) July 10, 2024",
+          "link": "https://mathstodon.xyz/@varikvalefor/112764596911850375",
+          "publishedOn": "2024-07-10T22:39:58.000Z",
+          "wordCount": 127,
+          "title": "ni'o la .varik. cu nelci lo xriso je lijda je cu tolnei lo so'i xriso lijda",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@jeanas/112759415600619166",
           "author": "@jeanas",
           "description": "Je viens de publier un billet de blog sur l'email et ses problèmes : spam, complexité, absence de sécurité, centralisation, etc.\nhttps://jean.abou-samra.fr/blog/email/\n- Jean Abou Samra (@jeanas) July 9, 2024",
