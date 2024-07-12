@@ -2,10 +2,135 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-11T00:47:46.934Z</updated>
+    <updated>2024-07-12T00:46:53.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 02:01:49, duration 385 secs, exceptionally bright, Magnitude -3.5]]></title>
+        <id>https://mathstodon.xyz/@ColinTheMathmo/112770684331761229</id>
+        <link href="https://mathstodon.xyz/@ColinTheMathmo/112770684331761229"/>
+        <updated>2024-07-12T00:28:04.000Z</updated>
+        <summary type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 02:01:49, duration 385 secs, exceptionally bright, Magnitude -3.5
+- Colin the Mathmo (@ColinTheMathmo) July 11, 2024]]></summary>
+        <author>
+            <name>@ColinTheMathmo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#CellTower 799 ⬜⬜⬜⬜⬜⬜➡️➡️⬇️⬜⬜⬜⬜ ➡️➡️➡️➡️➡️➡️⬆️⬜➡️➡️➡️➡️➡️ https://www.andrewt.net/puzzles/cell-tower/?p=799]]></title>
+        <id>https://mathstodon.xyz/@geonz/112770612429716548</id>
+        <link href="https://mathstodon.xyz/@geonz/112770612429716548"/>
+        <updated>2024-07-12T00:09:47.000Z</updated>
+        <summary type="html"><![CDATA[#CellTower 799
+⬜⬜⬜⬜⬜⬜➡️➡️⬇️⬜⬜⬜⬜
+➡️➡️➡️➡️➡️➡️⬆️⬜➡️➡️➡️➡️➡️
+https://www.andrewt.net/puzzles/cell-tower/?p=799
+- cognitively accessible math (@geonz) July 11, 2024]]></summary>
+        <author>
+            <name>@geonz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habermasian version of the POASIWID: The purpose of a system is what it (actually and systematically) does, the ways in which it (...) reproduces and re-constitutes itself, the ways in which it (...) defines the boundaries of what it would mean to maintain itself under system evolution versus what it would mean to fall into crisis]]></title>
+        <id>https://mathstodon.xyz/@boarders/112770586428860391</id>
+        <link href="https://mathstodon.xyz/@boarders/112770586428860391"/>
+        <updated>2024-07-12T00:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Habermasian version of the POASIWID: The purpose of a system is what it (actually and systematically) does, the ways in which it (...) reproduces and re-constitutes itself, the ways in which it (...) defines the boundaries of what it would mean to maintain itself under system evolution versus what it would mean to fall into crisis
+- Boarders (@boarders) July 11, 2024]]></summary>
+        <author>
+            <name>@boarders</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One last bit of C++ for today. You can think of a vector field as describing a flow on a manifold and allowing the flow to happen for time t gives you a diffeomorphism of the manifold ie. a differentiable invertible map from the manifold to itself. The textbooks often use these diffeomeorphisms to reason about the vector fields, but going from vector field to diffeomorphism can require a non-trivial integration. But if you have an infinitesimal ε it's trivial to make a diffeomorphism in a setup where the manifold is embedded in a larger ambient space where the tangent vectors are literally tangent to the manifold. You can just map x to x + εv(x). For example, if f and g are the diffeomorphisms arising from a pair of vector fields we can compute their Lie bracket (equivalently the Lie derivative of one wrt the other) by studying f(g(x))-g(f(x)). Which makes it easy to compute Lie brackets using dual numbers…]]></title>
+        <id>https://mathstodon.xyz/@dpiponi/112770476774416988</id>
+        <link href="https://mathstodon.xyz/@dpiponi/112770476774416988"/>
+        <updated>2024-07-11T23:35:17.000Z</updated>
+        <summary type="html"><![CDATA[One last bit of C++ for today.
+You can think of a vector field as describing a flow on a manifold and allowing the flow to happen for time t gives you a diffeomorphism of the manifold ie. a differentiable invertible map from the manifold to itself. The textbooks often use these diffeomeorphisms to reason about the vector fields, but going from vector field to diffeomorphism can require a non-trivial integration.
+But if you have an infinitesimal ε it's trivial to make a diffeomorphism in a setup where the manifold is embedded in a larger ambient space where the tangent vectors are literally tangent to the manifold. You can just map x to x + εv(x).
+For example, if f and g are the diffeomorphisms arising from a pair of vector fields we can compute their Lie bracket (equivalently the Lie derivative of one wrt the other) by studying f(g(x))-g(f(x)). Which makes it easy to compute Lie brackets using dual numbers in your favourite programming language. Here's a C++ example of computing the Lie bracket of a pair of fields considered to be vector fields tangent to the unit sphere.
+- Dan Piponi (@dpiponi) July 11, 2024]]></summary>
+        <author>
+            <name>@dpiponi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python GUI 053 - Transpo - transpo_gui.py https://theblackchamber552383191.wordpress.com/2024/07/12/python-gui-053-transpo-transpo_gui-py/ #pythontkinter #cryptography]]></title>
+        <id>https://mathstodon.xyz/@TSOJ/112770442908576537</id>
+        <link href="https://mathstodon.xyz/@TSOJ/112770442908576537"/>
+        <updated>2024-07-11T23:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Python GUI 053 - Transpo - transpo_gui.py
+https://theblackchamber552383191.wordpress.com/2024/07/12/python-gui-053-transpo-transpo_gui-py/
+#pythontkinter #cryptography
+- The Black Chamber (@TSOJ) July 11, 2024]]></summary>
+        <author>
+            <name>@TSOJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#Connections Puzzle #397 🟨🟨🟨🟨 🟦🟦🟩🟪 🟩🟩🟪🟪 🟪🟩🟩🟪 🟩🟩🟩🟩 🟪🟦🟪🟪]]></title>
+        <id>https://mathstodon.xyz/@olligobber/112770385731197970</id>
+        <link href="https://mathstodon.xyz/@olligobber/112770385731197970"/>
+        <updated>2024-07-11T23:12:08.000Z</updated>
+        <summary type="html"><![CDATA[#Connections 
+Puzzle #397
+🟨🟨🟨🟨
+🟦🟦🟩🟪
+🟩🟩🟪🟪
+🟪🟩🟩🟪
+🟩🟩🟩🟩
+🟪🟦🟪🟪
+- olligobber (@olligobber) July 11, 2024]]></summary>
+        <author>
+            <name>@olligobber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[((¬a⇿(a⇿a))⇿¬a)]]></title>
+        <id>https://mathstodon.xyz/@logicbot/112770338367253235</id>
+        <link href="https://mathstodon.xyz/@logicbot/112770338367253235"/>
+        <updated>2024-07-11T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[((¬a⇿(a⇿a))⇿¬a)
+- Logic Bot (@logicbot) July 11, 2024]]></summary>
+        <author>
+            <name>@logicbot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨👉 J♥️]]></title>
+        <id>https://mathstodon.xyz/@beggarmyneighbour/112770338257908815</id>
+        <link href="https://mathstodon.xyz/@beggarmyneighbour/112770338257908815"/>
+        <updated>2024-07-11T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[👨👉 J♥️
+- Beggar-my-neighbour forever (@beggarmyneighbour) July 11, 2024]]></summary>
+        <author>
+            <name>@beggarmyneighbour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has anyone used the Racket handin server locally? Basically I have a bunch of .rkt files from Moodle, and a Checker defined for `handin-server/checker`, and I just want to run the checker on each file to get its score. Is this possible? Or is there a more lightweight test utility separate from the server I should use to count passing tests instead?]]></title>
+        <id>https://mathstodon.xyz/@joey/112770329572658711</id>
+        <link href="https://mathstodon.xyz/@joey/112770329572658711"/>
+        <updated>2024-07-11T22:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Has anyone used the Racket handin server locally? Basically I have a bunch of .rkt files from Moodle, and a Checker defined for `handin-server/checker`, and I just want to run the checker on each file to get its score. Is this possible? Or is there a more lightweight test utility separate from the server I should use to count passing tests instead?
+- Joey Eremondi (@joey) July 11, 2024]]></summary>
+        <author>
+            <name>@joey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replied to: I have been trying for nearly an hour to figure out why my program is calling the wrong constructor. I’ve checked it a thousand times and still can't see what is wrong with my code. 🤡]]></title>
+        <id>https://mathstodon.xyz/@matematico314/112770325293247328</id>
+        <link href="https://mathstodon.xyz/@matematico314/112770325293247328"/>
+        <updated>2024-07-11T22:56:46.000Z</updated>
+        <summary type="html"><![CDATA[After more than two hours, I found out that the problem was related to a 'virtual' keyword in the declaration of a class. A few days ago, I realized that I wasn't proficient enough to deal with multiple inheritance, so I simplified my project to avoid it. However, I forgot to remove the 'virtual' keyword from the definition of this particular class, and this oversight was the reason for all the trouble. I hate myself lol.
+- Matemático Fã do Euler (@matematico314) July 11, 2024]]></summary>
+        <author>
+            <name>@matematico314</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I don’t think Kerch will be the fist thing we see with #F16s in #Ukraine. They need to look after themselves first so I think they will be firing nothing but radar homing missiles for a few days. The arrival of F16s will be marked by everything Russian with a radar blowing up. Then we’ll hit the Kerch Bridge.]]></title>
         <id>https://mathstodon.xyz/@taatm/112765058699956100</id>

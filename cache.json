@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@ColinTheMathmo/112770684331761229",
+          "author": "@ColinTheMathmo",
+          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:49, duration 385 secs, exceptionally bright, Magnitude -3.5\n- Colin the Mathmo (@ColinTheMathmo) July 11, 2024",
+          "link": "https://mathstodon.xyz/@ColinTheMathmo/112770684331761229",
+          "publishedOn": "2024-07-12T00:28:04.000Z",
+          "wordCount": 124,
+          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:49, duration 385 secs, exceptionally bright, Magnitude -3.5",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@geonz/112770612429716548",
+          "author": "@geonz",
+          "description": "#CellTower 799\n⬜⬜⬜⬜⬜⬜➡️➡️⬇️⬜⬜⬜⬜\n➡️➡️➡️➡️➡️➡️⬆️⬜➡️➡️➡️➡️➡️\nhttps://www.andrewt.net/puzzles/cell-tower/?p=799\n- cognitively accessible math (@geonz) July 11, 2024",
+          "link": "https://mathstodon.xyz/@geonz/112770612429716548",
+          "publishedOn": "2024-07-12T00:09:47.000Z",
+          "wordCount": 119,
+          "title": "#CellTower 799 ⬜⬜⬜⬜⬜⬜➡️➡️⬇️⬜⬜⬜⬜ ➡️➡️➡️➡️➡️➡️⬆️⬜➡️➡️➡️➡️➡️ https://www.andrewt.net/puzzles/cell-tower/?p=799",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@boarders/112770586428860391",
+          "author": "@boarders",
+          "description": "Habermasian version of the POASIWID: The purpose of a system is what it (actually and systematically) does, the ways in which it (...) reproduces and re-constitutes itself, the ways in which it (...) defines the boundaries of what it would mean to maintain itself under system evolution versus what it would mean to fall into crisis\n- Boarders (@boarders) July 11, 2024",
+          "link": "https://mathstodon.xyz/@boarders/112770586428860391",
+          "publishedOn": "2024-07-12T00:03:10.000Z",
+          "wordCount": 121,
+          "title": "Habermasian version of the POASIWID: The purpose of a system is what it (actually and systematically) does, the ways in which it (...) reproduces and re-constitutes itself, the ways in which it (...) defines the boundaries of what it would mean to maintain itself under system evolution versus what it would mean to fall into crisis",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@dpiponi/112770476774416988",
+          "author": "@dpiponi",
+          "description": "One last bit of C++ for today.\nYou can think of a vector field as describing a flow on a manifold and allowing the flow to happen for time t gives you a diffeomorphism of the manifold ie. a differentiable invertible map from the manifold to itself. The textbooks often use these diffeomeorphisms to reason about the vector fields, but going from vector field to diffeomorphism can require a non-trivial integration.\nBut if you have an infinitesimal ε it's trivial to make a diffeomorphism in a setup where the manifold is embedded in a larger ambient space where the tangent vectors are literally tangent to the manifold. You can just map x to x + εv(x).\nFor example, if f and g are the diffeomorphisms arising from a pair of vector fields we can compute their Lie bracket (equivalently the Lie derivative of one wrt the other) by studying f(g(x))-g(f(x)). Which makes it easy to compute Lie brackets using dual numbers in your favourite programming language. Here's a C++ example of computing the Lie bracket of a pair of fields considered to be vector fields tangent to the unit sphere.\n- Dan Piponi (@dpiponi) July 11, 2024",
+          "link": "https://mathstodon.xyz/@dpiponi/112770476774416988",
+          "publishedOn": "2024-07-11T23:35:17.000Z",
+          "wordCount": 126,
+          "title": "One last bit of C++ for today. You can think of a vector field as describing a flow on a manifold and allowing the flow to happen for time t gives you a diffeomorphism of the manifold ie. a differentiable invertible map from the manifold to itself. The textbooks often use these diffeomeorphisms to reason about the vector fields, but going from vector field to diffeomorphism can require a non-trivial integration. But if you have an infinitesimal ε it's trivial to make a diffeomorphism in a setup where the manifold is embedded in a larger ambient space where the tangent vectors are literally tangent to the manifold. You can just map x to x + εv(x). For example, if f and g are the diffeomorphisms arising from a pair of vector fields we can compute their Lie bracket (equivalently the Lie derivative of one wrt the other) by studying f(g(x))-g(f(x)). Which makes it easy to compute Lie brackets using dual numbers…",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/770/479/528/885/836/original/1a92aa43fa306600.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@TSOJ/112770442908576537",
+          "author": "@TSOJ",
+          "description": "Python GUI 053 - Transpo - transpo_gui.py\nhttps://theblackchamber552383191.wordpress.com/2024/07/12/python-gui-053-transpo-transpo_gui-py/\n#pythontkinter #cryptography\n- The Black Chamber (@TSOJ) July 11, 2024",
+          "link": "https://mathstodon.xyz/@TSOJ/112770442908576537",
+          "publishedOn": "2024-07-11T23:26:40.000Z",
+          "wordCount": 123,
+          "title": "Python GUI 053 - Transpo - transpo_gui.py https://theblackchamber552383191.wordpress.com/2024/07/12/python-gui-053-transpo-transpo_gui-py/ #pythontkinter #cryptography",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@olligobber/112770385731197970",
+          "author": "@olligobber",
+          "description": "#Connections \nPuzzle #397\n🟨🟨🟨🟨\n🟦🟦🟩🟪\n🟩🟩🟪🟪\n🟪🟩🟩🟪\n🟩🟩🟩🟩\n🟪🟦🟪🟪\n- olligobber (@olligobber) July 11, 2024",
+          "link": "https://mathstodon.xyz/@olligobber/112770385731197970",
+          "publishedOn": "2024-07-11T23:12:08.000Z",
+          "wordCount": 115,
+          "title": "#Connections Puzzle #397 🟨🟨🟨🟨 🟦🟦🟩🟪 🟩🟩🟪🟪 🟪🟩🟩🟪 🟩🟩🟩🟩 🟪🟦🟪🟪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112770338367253235",
+          "author": "@logicbot",
+          "description": "((¬a⇿(a⇿a))⇿¬a)\n- Logic Bot (@logicbot) July 11, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112770338367253235",
+          "publishedOn": "2024-07-11T23:00:05.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇿(a⇿a))⇿¬a)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112770338257908815",
+          "author": "@beggarmyneighbour",
+          "description": "👨👉 J♥️\n- Beggar-my-neighbour forever (@beggarmyneighbour) July 11, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112770338257908815",
+          "publishedOn": "2024-07-11T23:00:03.000Z",
+          "wordCount": 116,
+          "title": "👨👉 J♥️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@joey/112770329572658711",
+          "author": "@joey",
+          "description": "Has anyone used the Racket handin server locally? Basically I have a bunch of .rkt files from Moodle, and a Checker defined for `handin-server/checker`, and I just want to run the checker on each file to get its score. Is this possible? Or is there a more lightweight test utility separate from the server I should use to count passing tests instead?\n- Joey Eremondi (@joey) July 11, 2024",
+          "link": "https://mathstodon.xyz/@joey/112770329572658711",
+          "publishedOn": "2024-07-11T22:57:51.000Z",
+          "wordCount": 122,
+          "title": "Has anyone used the Racket handin server locally? Basically I have a bunch of .rkt files from Moodle, and a Checker defined for `handin-server/checker`, and I just want to run the checker on each file to get its score. Is this possible? Or is there a more lightweight test utility separate from the server I should use to count passing tests instead?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@matematico314/112770325293247328",
+          "author": "@matematico314",
+          "description": "After more than two hours, I found out that the problem was related to a 'virtual' keyword in the declaration of a class. A few days ago, I realized that I wasn't proficient enough to deal with multiple inheritance, so I simplified my project to avoid it. However, I forgot to remove the 'virtual' keyword from the definition of this particular class, and this oversight was the reason for all the trouble. I hate myself lol.\n- Matemático Fã do Euler (@matematico314) July 11, 2024",
+          "link": "https://mathstodon.xyz/@matematico314/112770325293247328",
+          "publishedOn": "2024-07-11T22:56:46.000Z",
+          "wordCount": 127,
+          "title": "Replied to: I have been trying for nearly an hour to figure out why my program is calling the wrong constructor. I’ve checked it a thousand times and still can't see what is wrong with my code. 🤡",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@taatm/112765058699956100",
           "author": "@taatm",
           "description": "I don’t think Kerch will be the fist thing we see with #F16s in #Ukraine. They need to look after themselves first so I think they will be firing nothing but radar homing missiles for a few days.\nThe arrival of F16s will be marked by everything Russian with a radar blowing up. Then we’ll hit the Kerch Bridge.\n- The Animal and the Machine (@taatm) July 10, 2024",
