@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@jebeyer/112782060629538403",
+          "author": "@jebeyer",
+          "description": "new track recorded today\nwhistling kitty - squeezebox soliloquy \nmodular synth and reverb with some layering in reaper\nhttps://soundcloud.com/whistlingkitty/squeezebox-soliloquy\n- James Beyer (@jebeyer) July 13, 2024",
+          "link": "https://mathstodon.xyz/@jebeyer/112782060629538403",
+          "publishedOn": "2024-07-14T00:41:13.000Z",
+          "wordCount": 122,
+          "title": "new track recorded today whistling kitty - squeezebox soliloquy modular synth and reverb with some layering in reaper https://soundcloud.com/whistlingkitty/squeezebox-soliloquy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@ColinTheMathmo/112782009032847556",
+          "author": "@ColinTheMathmo",
+          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 02:02:18, duration 152 secs, bright, Magnitude -2.8\n- Colin the Mathmo (@ColinTheMathmo) July 13, 2024",
+          "link": "https://mathstodon.xyz/@ColinTheMathmo/112782009032847556",
+          "publishedOn": "2024-07-14T00:28:05.000Z",
+          "wordCount": 124,
+          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 02:02:18, duration 152 secs, bright, Magnitude -2.8",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@11011110/112781919543641600",
+          "author": "@11011110",
+          "description": "Rollercoaster loop shapes, https://physics.gu.se/LISEBERG/eng/pe5601.pdf, Ann-Marie Pendrill (2005). A recent post on Boing Boing led me down a rabbit hole of earlier and earlier posts and explanatory videos seemingly converging here (https://boingboing.net/2024/07/12/why-roller-coaster-loops-arent-circular.html, https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force, https://gizmodo.com/why-roller-coaster-loops-are-never-circular-1549063718).\nThe basic idea is to even out the forces resulting in the characteristic teardrop shape of roller-coaster vertical loops. Pendrill discusses whether centripetal or total acceleration should be balanced, the question of sudden-onset increased acceleration versus a gradual ramp-up, the different shapes that result from these choices, approximations involving replacing parts of the loop by circular arcs, and some ideas on how to tell the difference.\n- 0xDE (@11011110) July 13, 2024",
+          "link": "https://mathstodon.xyz/@11011110/112781919543641600",
+          "publishedOn": "2024-07-14T00:05:20.000Z",
+          "wordCount": 117,
+          "title": "Rollercoaster loop shapes, https://physics.gu.se/LISEBERG/eng/pe5601.pdf, Ann-Marie Pendrill (2005). A recent post on Boing Boing led me down a rabbit hole of earlier and earlier posts and explanatory videos seemingly converging here (https://boingboing.net/2024/07/12/why-roller-coaster-loops-arent-circular.html, https://www.vox.com/videos/2022/6/29/23188504/roller-coaster-loops-circular-g-force, https://gizmodo.com/why-roller-coaster-loops-are-never-circular-1549063718). The basic idea is to even out the forces resulting in the characteristic teardrop shape of roller-coaster vertical loops. Pendrill discusses whether centripetal or total acceleration should be balanced, the question of sudden-onset increased acceleration versus a gradual ramp-up, the different shapes that result from these choices, approximations involving replacing parts of the loop by circular arcs, and some ideas on how to tell the diff…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@varikvalefor/112781850872766058",
+          "author": "@varikvalefor",
+          "description": "- la .varik. .VALefor. (@varikvalefor) July 13, 2024",
+          "link": "https://mathstodon.xyz/@varikvalefor/112781850872766058",
+          "publishedOn": "2024-07-13T23:47:52.000Z",
+          "wordCount": 116,
+          "title": "an image",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/781/850/259/311/243/original/08ea732e73dd548c.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@ijk/112781843429088877",
+          "author": "@ijk",
+          "description": "First chapter of the dissertation is done! 🥳\n- Isabel (@ijk) July 13, 2024",
+          "link": "https://mathstodon.xyz/@ijk/112781843429088877",
+          "publishedOn": "2024-07-13T23:45:58.000Z",
+          "wordCount": 121,
+          "title": "First chapter of the dissertation is done! 🥳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@int/112781818476617327",
+          "author": "@int",
+          "description": "https://research.wmz.ninja/projects/phd/index.html\nThis is so realistic I quit after the 5th year\n- IntGrah (@int) July 13, 2024",
+          "link": "https://mathstodon.xyz/@int/112781818476617327",
+          "publishedOn": "2024-07-13T23:39:38.000Z",
+          "wordCount": 114,
+          "title": "https://research.wmz.ninja/projects/phd/index.html This is so realistic I quit after the 5th year",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@dpiponi/112781785213716866",
+          "author": "@dpiponi",
+          "description": "Predicting, half a century from now, a small sci-fi subgenre involving time travelers going back to July 13 2024.\n- Dan Piponi (@dpiponi) July 13, 2024",
+          "link": "https://mathstodon.xyz/@dpiponi/112781785213716866",
+          "publishedOn": "2024-07-13T23:31:10.000Z",
+          "wordCount": 123,
+          "title": "Predicting, half a century from now, a small sci-fi subgenre involving time travelers going back to July 13 2024.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@int/112781779163091823",
+          "author": "@int",
+          "description": "What happens when you get computer scientists to play game theory? I ran a round-robin tournament inspired by Axelrod with submissions from various cool people, and the results were quite interesting … https://game.intgrah.com/ipd/rankings\nThe game was the iterated prisoner's dilemma, with a 5% chance of miscommunication (since the noiseless version has been studied greatly). The top strategy turned out to be a \"trigger\" strategy which cooperates until the opponent defects five (!) times in a row. Surprisingly, it was not a forgiving strategy. My own submission came second, which was tit for two tats, a simple, forgiving strategy which allows for potential noise.\nIt was interesting to see the variety of submissions. Notable ones included:\n* performing a hypothesis test for cooperativeness every iteration (unfortunate for my machine because it was 𝑂(1))\n* Two strategies which attempted to detect each other and sacrifice one for the benefit of the other (technically not allowed under the rules of the prisoner's dilemma, but it was funny to see an anomalous result in the playoff matrix)\nOverall, it was a fun contest!\n- IntGrah (@int) July 13, 2024",
+          "link": "https://mathstodon.xyz/@int/112781779163091823",
+          "publishedOn": "2024-07-13T23:29:38.000Z",
+          "wordCount": 122,
+          "title": "What happens when you get computer scientists to play game theory? I ran a round-robin tournament inspired by Axelrod with submissions from various cool people, and the results were quite interesting … https://game.intgrah.com/ipd/rankings The game was the iterated prisoner's dilemma, with a 5% chance of miscommunication (since the noiseless version has been studied greatly). The top strategy turned out to be a \"trigger\" strategy which cooperates until the opponent defects five (!) times in a row. Surprisingly, it was not a forgiving strategy. My own submission came second, which was tit for two tats, a simple, forgiving strategy which allows for potential noise. It was interesting to see the variety of submissions. Notable ones included: * performing a hypothesis test for cooperativeness every iteration (unfortunate for my machine because it was 𝑂(1)) * Two strategies which attempted to detect each other…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@jonmsterling/112781719224158309",
+          "author": "@jonmsterling",
+          "description": "welp, guess we are in for another trump term :(\n- Jon Sterling (@jonmsterling) July 13, 2024",
+          "link": "https://mathstodon.xyz/@jonmsterling/112781719224158309",
+          "publishedOn": "2024-07-13T23:14:23.000Z",
+          "wordCount": 124,
+          "title": "welp, guess we are in for another trump term :(",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@FrohlichMarcel/112781698862186267",
+          "author": "@FrohlichMarcel",
+          "description": "Batteries: how cheap can they get? \nVery cheap.\nHow dirt cheap batteries will completely transform our electricity grid, paving the way for solar and wind and replacing grid reinforcements with grid buffers.\nhttps://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get\n- Marcel Fröhlich (@FrohlichMarcel) July 13, 2024",
+          "link": "https://mathstodon.xyz/@FrohlichMarcel/112781698862186267",
+          "publishedOn": "2024-07-13T23:09:13.000Z",
+          "wordCount": 123,
+          "title": "Batteries: how cheap can they get? Very cheap. How dirt cheap batteries will completely transform our electricity grid, paving the way for solar and wind and replacing grid reinforcements with grid buffers. https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@blugol13/112776418937344576",
           "author": "@blugol13",
           "description": "RT Ryan Els on X:\n007 Licence to Code 😏 https://t.co/izeWlkdcdV\nhttps://x.com/RyanEls4/status/1811724247972061280\n- bluegol (@blugol13) July 12, 2024",
