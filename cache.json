@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@gdrossi/112787753448593054",
+          "author": "@gdrossi",
+          "description": "https://x.com/dgriffinchess/status/1812553752366215445\n- Gerardo Daniel Rossi (@gdrossi) July 14, 2024",
+          "link": "https://mathstodon.xyz/@gdrossi/112787753448593054",
+          "publishedOn": "2024-07-15T00:48:58.000Z",
+          "wordCount": 116,
+          "title": "https://x.com/dgriffinchess/status/1812553752366215445",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/787/751/027/919/668/original/2c7f84d3946566fc.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@gdrossi/112787727041652245",
+          "author": "@gdrossi",
+          "description": "Juegan las blancas.\n- Gerardo Daniel Rossi (@gdrossi) July 14, 2024",
+          "link": "https://mathstodon.xyz/@gdrossi/112787727041652245",
+          "publishedOn": "2024-07-15T00:42:15.000Z",
+          "wordCount": 118,
+          "title": "Juegan las blancas.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/787/726/663/868/371/original/bd09bc7255e43ab8.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@DavidKButler/112787717486609896",
+          "author": "@DavidKButler",
+          "description": "Huge week at work and I am not nearly close to prepared for any of it:\nMon: Team planning meeting.\nTue: MLC staff training.\nWed: MLC 32nd Anniversary party\nThu: MASA Conference\nFri: MASA Conference (presenting 3 sessions)\n- David K Butler (Uni of Adel) (@DavidKButler) July 14, 2024",
+          "link": "https://mathstodon.xyz/@DavidKButler/112787717486609896",
+          "publishedOn": "2024-07-15T00:39:49.000Z",
+          "wordCount": 130,
+          "title": "Huge week at work and I am not nearly close to prepared for any of it: Mon: Team planning meeting. Tue: MLC staff training. Wed: MLC 32nd Anniversary party Thu: MASA Conference Fri: MASA Conference (presenting 3 sessions)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@matematico314/112787603711774683",
+          "author": "@matematico314",
+          "description": "My file system partition got full while I was trying to install the full TeX Live package. Now, apt-get is stuck at an apparently eternal 'Pregenerating ConTeXt MarkIV format. This may take some time...' message. I'm really afraid that I might have broken my system beyond repair. Or, at least, beyond repair with my level of knowledge. 😬\n- Matemático Fã do Euler (@matematico314) July 14, 2024",
+          "link": "https://mathstodon.xyz/@matematico314/112787603711774683",
+          "publishedOn": "2024-07-15T00:10:53.000Z",
+          "wordCount": 126,
+          "title": "My file system partition got full while I was trying to install the full TeX Live package. Now, apt-get is stuck at an apparently eternal 'Pregenerating ConTeXt MarkIV format. This may take some time...' message. I'm really afraid that I might have broken my system beyond repair. Or, at least, beyond repair with my level of knowledge. 😬",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@AshFrankland/112787598721603067",
+          "author": "@AshFrankland",
+          "description": "I completed #Celtix 37 using 14 walls. http://www.andrewt.net/puzzles/celtix?p=37\n- ÆFrankland (@AshFrankland) July 14, 2024",
+          "link": "https://mathstodon.xyz/@AshFrankland/112787598721603067",
+          "publishedOn": "2024-07-15T00:09:37.000Z",
+          "wordCount": 121,
+          "title": "I completed #Celtix 37 using 14 walls. http://www.andrewt.net/puzzles/celtix?p=37",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@Tom_Drummond/112787585740653589",
+          "author": "@Tom_Drummond",
+          "description": "A Bastille Day joke:\nIn France, they use one day old baguettes to kill vampires. The process is painstaking…\n- (@Tom_Drummond) July 14, 2024",
+          "link": "https://mathstodon.xyz/@Tom_Drummond/112787585740653589",
+          "publishedOn": "2024-07-15T00:06:19.000Z",
+          "wordCount": 123,
+          "title": "A Bastille Day joke: In France, they use one day old baguettes to kill vampires. The process is painstaking…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@JordiGH/112787499005750748",
+          "author": "@JordiGH",
+          "description": "Another Sunday, another Trial of Mana with @rainwarrior https://www.twitch.tv/jordigh\n- JordiGH (@JordiGH) July 14, 2024",
+          "link": "https://mathstodon.xyz/@JordiGH/112787499005750748",
+          "publishedOn": "2024-07-14T23:44:16.000Z",
+          "wordCount": 121,
+          "title": "Another Sunday, another Trial of Mana with @rainwarrior https://www.twitch.tv/jordigh",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@ColinTheMathmo/112787494304006161",
+          "author": "@ColinTheMathmo",
+          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 01:14:01, duration 201 secs, very bright, Magnitude -3.3\n- Colin the Mathmo (@ColinTheMathmo) July 14, 2024",
+          "link": "https://mathstodon.xyz/@ColinTheMathmo/112787494304006161",
+          "publishedOn": "2024-07-14T23:43:04.000Z",
+          "wordCount": 124,
+          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 01:14:01, duration 201 secs, very bright, Magnitude -3.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@DamionBeth/112787472108364064",
+          "author": "@DamionBeth",
+          "description": "My desire to be an informed member of society is struggling with being online and wading through all the crap.  Maybe this week is a week I just do an online \"detox\" and go back to the 90s...and play NCAA 25 for a week!\n- DBeth (@DamionBeth) July 14, 2024",
+          "link": "https://mathstodon.xyz/@DamionBeth/112787472108364064",
+          "publishedOn": "2024-07-14T23:37:25.000Z",
+          "wordCount": 124,
+          "title": "My desire to be an informed member of society is struggling with being online and wading through all the crap. Maybe this week is a week I just do an online \"detox\" and go back to the 90s...and play NCAA 25 for a week!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@peterb/112787390086272853",
+          "author": "@peterb",
+          "description": "Stop me from streaming this.\n- peterb (@peterb) July 14, 2024",
+          "link": "https://mathstodon.xyz/@peterb/112787390086272853",
+          "publishedOn": "2024-07-14T23:16:34.000Z",
+          "wordCount": 118,
+          "title": "Replied to: I ended up at this page by searching the art of Jun Suemi (who drew the lobsterwoman from earlier) and I have never heard of this game before and don't know if it's good, but the music freakin' SLAPS. https://archive.org/details/music-from-brandish-2-the-planet-buster-kica-1125/01+-+Prologue+~+Bundevia.mp3",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/787/389/746/985/530/original/899b2e5b1d965a86.png"
+        },
+        {
           "id": "https://mathstodon.xyz/@jebeyer/112782060629538403",
           "author": "@jebeyer",
           "description": "new track recorded today\nwhistling kitty - squeezebox soliloquy \nmodular synth and reverb with some layering in reaper\nhttps://soundcloud.com/whistlingkitty/squeezebox-soliloquy\n- James Beyer (@jebeyer) July 13, 2024",
