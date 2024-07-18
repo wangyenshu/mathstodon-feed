@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@dneary/112804708098474537",
+          "author": "@dneary",
+          "description": "I confused myself about HugePages on Linux. Is the physical memory corresponding to a HugePage guaranteed to be contiguous? I thought so, but now I am not sure, because (as I understand it) first time loads & stores can trigger page faults per kernel page that is part of a hugepage. Is that right?\n- Dave Neary (@dneary) July 17, 2024",
+          "link": "https://mathstodon.xyz/@dneary/112804708098474537",
+          "publishedOn": "2024-07-18T00:40:46.000Z",
+          "wordCount": 123,
+          "title": "I confused myself about HugePages on Linux. Is the physical memory corresponding to a HugePage guaranteed to be contiguous? I thought so, but now I am not sure, because (as I understand it) first time loads & stores can trigger page faults per kernel page that is part of a hugepage. Is that right?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@AshFrankland/112804608924869815",
+          "author": "@AshFrankland",
+          "description": "I completed #Celtix 40 using 12 walls. http://www.andrewt.net/puzzles/celtix?p=40\n- ÆFrankland (@AshFrankland) July 17, 2024",
+          "link": "https://mathstodon.xyz/@AshFrankland/112804608924869815",
+          "publishedOn": "2024-07-18T00:15:32.000Z",
+          "wordCount": 121,
+          "title": "I completed #Celtix 40 using 12 walls. http://www.andrewt.net/puzzles/celtix?p=40",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@SvenGeier/112804603948560622",
+          "author": "@SvenGeier",
+          "description": "AI is already driving cars and managing bank accounts...\n- Σ(i³) = (Σi)² (@SvenGeier) July 17, 2024",
+          "link": "https://mathstodon.xyz/@SvenGeier/112804603948560622",
+          "publishedOn": "2024-07-18T00:14:16.000Z",
+          "wordCount": 124,
+          "title": "AI is already driving cars and managing bank accounts...",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/804/603/830/751/150/original/87d8fcdc255c7694.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@SvenGeier/112804592974177159",
+          "author": "@SvenGeier",
+          "description": "Can someone tell me what this sign means? Trucks aren't allowed to turn right? Everybody BUT trucks aren't allowed to turn right? Nobody can turn right but trucks are extra not allowed?\n- Σ(i³) = (Σi)² (@SvenGeier) July 17, 2024",
+          "link": "https://mathstodon.xyz/@SvenGeier/112804592974177159",
+          "publishedOn": "2024-07-18T00:11:29.000Z",
+          "wordCount": 125,
+          "title": "Can someone tell me what this sign means? Trucks aren't allowed to turn right? Everybody BUT trucks aren't allowed to turn right? Nobody can turn right but trucks are extra not allowed?",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/804/592/925/753/047/original/93470fd387222089.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@AmenZwa/112804451741358923",
+          "author": "@AmenZwa",
+          "description": "Many of my #IT clients invest tens of millions, each, into developing custom #GUI web apps and mobile apps—using React, Angular, and all the shiny billion-user frameworks—for simple #CRUD work used by a hundred in-house expert users. Despite my advise to shun such billion-user frameworks, they persist in using them and employing those who tout such frameworks.\nThat is unwise, especially considering that their user community comprises no more than a few hundred in-house and partner users. A better, safer, less costly approach is to use the #TUI. Those handfuls of users they are targeting are the experts. They don't need coddling UIs; they just need a tool that enhances their productivity.\nIT is cocked up. The field has lost its purpose—to save money for the clients.\n- amen zwa, esq. (@AmenZwa) July 17, 2024",
+          "link": "https://mathstodon.xyz/@AmenZwa/112804451741358923",
+          "publishedOn": "2024-07-17T23:35:34.000Z",
+          "wordCount": 125,
+          "title": "Many of my #IT clients invest tens of millions, each, into developing custom #GUI web apps and mobile apps—using React, Angular, and all the shiny billion-user frameworks—for simple #CRUD work used by a hundred in-house expert users. Despite my advise to shun such billion-user frameworks, they persist in using them and employing those who tout such frameworks. That is unwise, especially considering that their user community comprises no more than a few hundred in-house and partner users. A better, safer, less costly approach is to use the #TUI. Those handfuls of users they are targeting are the experts. They don't need coddling UIs; they just need a tool that enhances their productivity. IT is cocked up. The field has lost its purpose—to save money for the clients.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@monsoon0/112804401961167389",
+          "author": "@monsoon0",
+          "description": "Obviously the best astronauts are the short ones… #COSPAR2024\n- Nalini Joshi (@monsoon0) July 17, 2024",
+          "link": "https://mathstodon.xyz/@monsoon0/112804401961167389",
+          "publishedOn": "2024-07-17T23:22:54.000Z",
+          "wordCount": 122,
+          "title": "Obviously the best astronauts are the short ones… #COSPAR2024",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/804/394/951/600/044/original/68454878a581ad2e.jpeg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112804381279469699",
+          "author": "@markusde",
+          "description": "My tummy started getting grumbly after 4 apples but I persevered\n- MARKUS THE POSITIVE (@markusde) July 17, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112804381279469699",
+          "publishedOn": "2024-07-17T23:17:39.000Z",
+          "wordCount": 124,
+          "title": "Replied to: It's so.... geometric",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@isomorphismes/112804371883584678",
+          "author": "@isomorphismes",
+          "description": "Should we be sceptical of inductive arguments?\nA non-mathematician learned of Sorties paradox, and when this friend asked me I of course had an answer ready: \"you may subtract a grain from the heap, so long as the grain is not too big a fraction of the heap.\"\nBut that's only because I was prepared for the punchline in advance.\nGenerally the structure of inductive arguments is not forward-looking: quite the opposite.\nCan you think of other contradictions which arise from taking induction too far?\n- isomorphismes (@isomorphismes) July 17, 2024",
+          "link": "https://mathstodon.xyz/@isomorphismes/112804371883584678",
+          "publishedOn": "2024-07-17T23:15:15.000Z",
+          "wordCount": 121,
+          "title": "Should we be sceptical of inductive arguments? A non-mathematician learned of Sorties paradox, and when this friend asked me I of course had an answer ready: \"you may subtract a grain from the heap, so long as the grain is not too big a fraction of the heap.\" But that's only because I was prepared for the punchline in advance. Generally the structure of inductive arguments is not forward-looking: quite the opposite. Can you think of other contradictions which arise from taking induction too far?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@taatm/112804365576321580",
+          "author": "@taatm",
+          "description": "They are on the same board. Russia is playing checkers/drafts 🔴 with a thousand pieces. Against them #Ukraine is playing chess♟️.\nUkraine stopped being pawns and became knights, bishops and castles. Soon the first queens will arrive in the sky while Russia tries to find more checkers.\nRussia cannot win.\n- The Animal and the Machine (@taatm) July 17, 2024",
+          "link": "https://mathstodon.xyz/@taatm/112804365576321580",
+          "publishedOn": "2024-07-17T23:13:39.000Z",
+          "wordCount": 127,
+          "title": "They are on the same board. Russia is playing checkers/drafts 🔴 with a thousand pieces. Against them #Ukraine is playing chess♟️. Ukraine stopped being pawns and became knights, bishops and castles. Soon the first queens will arrive in the sky while Russia tries to find more checkers. Russia cannot win.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@codyroux/112804316350550243",
+          "author": "@codyroux",
+          "description": "People are like \"I know an awesome band\" and it's these dudes\n- Cody (@codyroux) July 17, 2024",
+          "link": "https://mathstodon.xyz/@codyroux/112804316350550243",
+          "publishedOn": "2024-07-17T23:01:08.000Z",
+          "wordCount": 123,
+          "title": "People are like \"I know an awesome band\" and it's these dudes",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/804/316/166/694/300/original/1b49e337220139c1.jpg"
+        },
+        {
           "id": "https://mathstodon.xyz/@violator/112798986210580144",
           "author": "@violator",
           "description": "imagine if the 80s were real\n- 10,000 lb weighted blanket (@violator) July 16, 2024",
