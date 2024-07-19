@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@decompwlj/112811263002799279",
+          "author": "@decompwlj",
+          "description": "One day, one decomposition\nA091072: Numbers whose odd part is of the form 4k+1. The bit to the left of the least significant bit of each term is unset\n3D graph, threejs - webGL ➡️ https://decompwlj.com/3Dgraph/A091072.html\n2D graph, first 500 terms ➡️ https://decompwlj.com/2Dgraph500terms/A091072.html\n#decompwlj #maths #mathematics #OEIS #javascript #php #3D #numbers #odd #part #form #graph #threejs #webGL\n- Rémi Eismann (@decompwlj) July 18, 2024",
+          "link": "https://mathstodon.xyz/@decompwlj/112811263002799279",
+          "publishedOn": "2024-07-19T04:27:46.000Z",
+          "wordCount": 121,
+          "title": "One day, one decomposition A091072: Numbers whose odd part is of the form 4k+1. The bit to the left of the least significant bit of each term is unset 3D graph, threejs - webGL ➡️ https://decompwlj.com/3Dgraph/A091072.html 2D graph, first 500 terms ➡️ https://decompwlj.com/2Dgraph500terms/A091072.html #decompwlj #maths #mathematics #OEIS #javascript #php #3D #numbers #odd #part #form #graph #threejs #webGL",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/811/261/522/593/365/original/f0fbb38cd99ecee3.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@zbMATH/112811233816917102",
+          "author": "@zbMATH",
+          "description": "Aleksandr Yakovlevich Khinchin https://zbmath.org/authors/khinchin.aleksandr-ya, known for his work in probability and number theory, was #botd 130 years ago. His fundamental paper 'Über einen Satz der Wahrscheinlichkeitsrechnung', containing the law of iterated logarithm, was reviewed in https://zbmath.org/50.0344.02.\n- zbMATH Open (@zbMATH) July 18, 2024",
+          "link": "https://mathstodon.xyz/@zbMATH/112811233816917102",
+          "publishedOn": "2024-07-19T04:20:20.000Z",
+          "wordCount": 118,
+          "title": "Aleksandr Yakovlevich Khinchin https://zbmath.org/authors/khinchin.aleksandr-ya, known for his work in probability and number theory, was #botd 130 years ago. His fundamental paper 'Über einen Satz der Wahrscheinlichkeitsrechnung', containing the law of iterated logarithm, was reviewed in https://zbmath.org/50.0344.02.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@dharmik/112811216231530688",
+          "author": "@dharmik",
+          "description": "I hate this partly sunny-partly cloudy weather.\n- dharmik parmar (@dharmik) July 18, 2024",
+          "link": "https://mathstodon.xyz/@dharmik/112811216231530688",
+          "publishedOn": "2024-07-19T04:15:52.000Z",
+          "wordCount": 121,
+          "title": "I hate this partly sunny-partly cloudy weather.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/811/211/944/122/280/original/8508a9363335ed2e.jpeg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@blugol13/112811210010098825",
+          "author": "@blugol13",
+          "description": "RT @john B. Holbein: timeless https://t.co/4zCauyAduo\n- bluegol (@blugol13) July 18, 2024",
+          "link": "https://mathstodon.xyz/@blugol13/112811210010098825",
+          "publishedOn": "2024-07-19T04:14:17.000Z",
+          "wordCount": 119,
+          "title": "RT @john B. Holbein: timeless https://t.co/4zCauyAduo",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@zbMATH/112811193310788455",
+          "author": "@zbMATH",
+          "description": "Rajendra V. Gurjar/Kayo Masuda/Masayoshi Miyanishi's 'Affine space fibrations' \"is a true monograph concerning one particular topic in algebraic geometry -- \\(\\mathbb{A}^{n}\\)-fibrations of algebraic varieties\", concludes Tadeusz Krasiński review https://zbmath.org/1535.14003.\n\"It gives the state of the art of this theory. It is done in excellent style: detailed, clear expositions, many examples, a lot of exercises, all needed results are presented, open problems are listed.\"\n\"It is a very specialized work. But all readers interested in affine algebraic geometry, Jacobian conjecture, group action on algebraic varieties and analytic geometry will find something interesting there.\"\n- zbMATH Open (@zbMATH) July 18, 2024",
+          "link": "https://mathstodon.xyz/@zbMATH/112811193310788455",
+          "publishedOn": "2024-07-19T04:10:02.000Z",
+          "wordCount": 119,
+          "title": "Rajendra V. Gurjar/Kayo Masuda/Masayoshi Miyanishi's 'Affine space fibrations' \"is a true monograph concerning one particular topic in algebraic geometry -- \\(\\mathbb{A}^{n}\\)-fibrations of algebraic varieties\", concludes Tadeusz Krasiński review https://zbmath.org/1535.14003. \"It gives the state of the art of this theory. It is done in excellent style: detailed, clear expositions, many examples, a lot of exercises, all needed results are presented, open problems are listed.\" \"It is a very specialized work. But all readers interested in affine algebraic geometry, Jacobian conjecture, group action on algebraic varieties and analytic geometry will find something interesting there.\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@revisiontown/112811186136411274",
+          "author": "@revisiontown",
+          "description": "- RevisionTown (@revisiontown) July 18, 2024",
+          "link": "https://mathstodon.xyz/@revisiontown/112811186136411274",
+          "publishedOn": "2024-07-19T04:08:13.000Z",
+          "wordCount": 114,
+          "title": "media",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/811/185/791/484/972/original/fe5624dc074a78a3.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@revisiontown/112811181028387399",
+          "author": "@revisiontown",
+          "description": "Free Study Notes, Books, Exam paper questions organized by topic and difficulty for IB, AP, SAT, ACT, AQA, OCR, Cambridge, GCSE, IGCSE and A Level.\nhttps://revisiontown.com/\n- RevisionTown (@revisiontown) July 18, 2024",
+          "link": "https://mathstodon.xyz/@revisiontown/112811181028387399",
+          "publishedOn": "2024-07-19T04:06:55.000Z",
+          "wordCount": 121,
+          "title": "Free Study Notes, Books, Exam paper questions organized by topic and difficulty for IB, AP, SAT, ACT, AQA, OCR, Cambridge, GCSE, IGCSE and A Level. https://revisiontown.com/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@vam103/112811144506887215",
+          "author": "@vam103",
+          "description": "Apparently, my work has again made its way out of my office... although this is fairly old work that broke my computer. Sounds impressive though.\nReliability of Nonlinear least square broken stick model in quantifying the effects of temperature and photoperiod on flowering of pigeonpea genotypes (Cajanus cajan (L.) Millsp.) \nhttps://doi.org/10.31018/jans.v16i2.4840\n- (@vam103) July 18, 2024",
+          "link": "https://mathstodon.xyz/@vam103/112811144506887215",
+          "publishedOn": "2024-07-19T03:57:37.000Z",
+          "wordCount": 123,
+          "title": "Apparently, my work has again made its way out of my office... although this is fairly old work that broke my computer. Sounds impressive though. Reliability of Nonlinear least square broken stick model in quantifying the effects of temperature and photoperiod on flowering of pigeonpea genotypes (Cajanus cajan (L.) Millsp.) https://doi.org/10.31018/jans.v16i2.4840",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@bd0ml/112811058430611125",
+          "author": "@bd0ml",
+          "description": "卡通农场里我已经不怎么为钱发愁了\n- 比尔仃泥寺 (@bd0ml) July 18, 2024",
+          "link": "https://mathstodon.xyz/@bd0ml/112811058430611125",
+          "publishedOn": "2024-07-19T03:35:44.000Z",
+          "wordCount": 114,
+          "title": "卡通农场里我已经不怎么为钱发愁了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@graveolensa/112811019842774030",
+          "author": "@graveolensa",
+          "description": "@jenfns @henrycohn @anton_hilado @Breakfastisready @Maryamization @davidlowryduda @ykonstant @ThetaHedgie @busparbarz :\nhttps://arxiv.org/abs/2407.13599\n/Petersson Inner Products and Whittaker--Fourier Periods on Even Special Orthogonal and Symplectic Groups/\nYeongseong Jo\nhttps://arxiv.org/abs/2407.12834\n/Heegner point constructions and fundamental units in cubic fields/\nArav V. Karighattam\nhttps://arxiv.org/abs/2407.13428\n/The Structure of Emulations in Classical Spin Models: Modularity and Universality/\nTobias Reinhart, Benjamin Engel, Gemma De les Coves\nhttps://arxiv.org/abs/2407.13464\n/Critical values of L-functions of residual representations of GL4\nJohannes Droschl\n- Owen Maresh (@graveolensa) July 18, 2024",
+          "link": "https://mathstodon.xyz/@graveolensa/112811019842774030",
+          "publishedOn": "2024-07-19T03:25:55.000Z",
+          "wordCount": 118,
+          "title": "@jenfns @henrycohn @anton_hilado @Breakfastisready @Maryamization @davidlowryduda @ykonstant @ThetaHedgie @busparbarz : https://arxiv.org/abs/2407.13599 /Petersson Inner Products and Whittaker--Fourier Periods on Even Special Orthogonal and Symplectic Groups/ Yeongseong Jo https://arxiv.org/abs/2407.12834 /Heegner point constructions and fundamental units in cubic fields/ Arav V. Karighattam https://arxiv.org/abs/2407.13428 /The Structure of Emulations in Classical Spin Models: Modularity and Universality/ Tobias Reinhart, Benjamin Engel, Gemma De les Coves https://arxiv.org/abs/2407.13464 /Critical values of L-functions of residual representations of GL4 Johannes Droschl",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@dneary/112804708098474537",
           "author": "@dneary",
           "description": "I confused myself about HugePages on Linux. Is the physical memory corresponding to a HugePage guaranteed to be contiguous? I thought so, but now I am not sure, because (as I understand it) first time loads & stores can trigger page faults per kernel page that is part of a hugepage. Is that right?\n- Dave Neary (@dneary) July 17, 2024",
