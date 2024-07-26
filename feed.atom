@@ -2,10 +2,142 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-25T00:47:58.293Z</updated>
+    <updated>2024-07-26T00:47:23.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[checking out a subreddit for lovers of ai art]]></title>
+        <id>https://mathstodon.xyz/@sc_griffith/112850002092642516</id>
+        <link href="https://mathstodon.xyz/@sc_griffith/112850002092642516"/>
+        <updated>2024-07-26T00:39:37.000Z</updated>
+        <summary type="html"><![CDATA[checking out a subreddit for lovers of ai art
+- 🐙🐇🐝Pointed Sarah🐞🐡🐧 (@sc_griffith) July 25, 2024]]></summary>
+        <author>
+            <name>@sc_griffith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From IRC: <JordiGH> linkdd: I used to play Red Alert 2 like it was Sim Base. <JordiGH> Mostly in multiplayer. <JordiGH> We'd both be building our base... <JordiGH> But we were very conflict-shy. <JordiGH> If we saw each other across the fog of war, we'd apologise for the intrusion and run away. <JordiGH> Hence, Sim Base. <kline> <JordiGH> If we saw each other across the fog of war, we'd apologise for the intrusion and run away. <kline> canadian rts'ers #RedAlert #RTS #multiplayer #IRC #lobsters]]></title>
+        <id>https://mathstodon.xyz/@JordiGH/112849952124556906</id>
+        <link href="https://mathstodon.xyz/@JordiGH/112849952124556906"/>
+        <updated>2024-07-26T00:26:55.000Z</updated>
+        <summary type="html"><![CDATA[From IRC:
+ linkdd: I used to play Red Alert 2 like it was Sim Base.
+ Mostly in multiplayer.
+ We'd both be building our base...
+ But we were very conflict-shy.
+ If we saw each other across the fog of war, we'd apologise for the intrusion and run away.
+ Hence, Sim Base.
+  If we saw each other across the fog of war, we'd apologise for the intrusion and run away.
+ canadian rts'ers
+#RedAlert #RTS #multiplayer #IRC #lobsters
+- JordiGH (@JordiGH) July 25, 2024]]></summary>
+        <author>
+            <name>@JordiGH</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI isn't a free lunch https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808]]></title>
+        <id>https://mathstodon.xyz/@highergeometer/112849800746207487</id>
+        <link href="https://mathstodon.xyz/@highergeometer/112849800746207487"/>
+        <updated>2024-07-25T23:48:25.000Z</updated>
+        <summary type="html"><![CDATA[AI isn't a free lunch
+https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808
+- theHigherGeometer (@highergeometer) July 25, 2024]]></summary>
+        <author>
+            <name>@highergeometer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replied to: Sleep depraved]]></title>
+        <id>https://mathstodon.xyz/@markusde/112849756644379914</id>
+        <link href="https://mathstodon.xyz/@markusde/112849756644379914"/>
+        <updated>2024-07-25T23:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Current objective: survive (don't take a nap)
+- PRO EMACS GAMER (@markusde) July 25, 2024]]></summary>
+        <author>
+            <name>@markusde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sleep depraved]]></title>
+        <id>https://mathstodon.xyz/@markusde/112849746921150234</id>
+        <link href="https://mathstodon.xyz/@markusde/112849746921150234"/>
+        <updated>2024-07-25T23:34:44.000Z</updated>
+        <summary type="html"><![CDATA[Sleep depraved
+- PRO EMACS GAMER (@markusde) July 25, 2024]]></summary>
+        <author>
+            <name>@markusde</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank error in your favour. Collect two billion dollars. #Ukraine 🇺🇦 https://kyivindependent.com/pentagon-finds-accounting-errors-worth-2-billion-in-aid-for-ukraine/]]></title>
+        <id>https://mathstodon.xyz/@taatm/112849689468398251</id>
+        <link href="https://mathstodon.xyz/@taatm/112849689468398251"/>
+        <updated>2024-07-25T23:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Bank error in your favour.
+Collect two billion dollars.
+#Ukraine 🇺🇦
+https://kyivindependent.com/pentagon-finds-accounting-errors-worth-2-billion-in-aid-for-ukraine/
+- The Animal and the Machine (@taatm) July 25, 2024]]></summary>
+        <author>
+            <name>@taatm</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[export TMP=$(mktemp -p /mnt2/vvx/) export AFE=opus export VFE=$4 ffmpeg -i $1 -ar 8k -ab 2k $TMP-a.$AFE & ffmpeg -i $1 -f rawvideo - | ffmpeg -ar 44100 -f u8 -i - -y -ab $3 $TMP-v.$VFE & wait ffmpeg -i $TMP-v.$VFE -f u8 -ar 44100 - | ffmpeg -f rawvideo -s $2 -i - $TMP-v2.mp4 & wait ffmpeg -i $TMP-a.$AFE -i $TMP-v2.mp4 -c:v copy -c:a aac -y $TMP.mp4]]></title>
+        <id>https://mathstodon.xyz/@varikvalefor/112849657058505777</id>
+        <link href="https://mathstodon.xyz/@varikvalefor/112849657058505777"/>
+        <updated>2024-07-25T23:11:52.000Z</updated>
+        <summary type="html"><![CDATA[export TMP=$(mktemp -p /mnt2/vvx/)
+export AFE=opus
+export VFE=$4
+ffmpeg -i $1 -ar 8k -ab 2k $TMP-a.$AFE &
+ffmpeg -i $1 -f rawvideo - | ffmpeg -ar 44100 -f u8 -i - -y -ab $3 $TMP-v.$VFE &
+wait
+ffmpeg -i $TMP-v.$VFE -f u8 -ar 44100 - | ffmpeg -f rawvideo -s $2 -i - $TMP-v2.mp4 &
+wait
+ffmpeg -i $TMP-a.$AFE -i $TMP-v2.mp4 -c:v copy -c:a aac -y $TMP.mp4
+- la .varik. .VALefor. (@varikvalefor) July 25, 2024]]></summary>
+        <author>
+            <name>@varikvalefor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[((¬a⇿b)∨(a∨¬a))]]></title>
+        <id>https://mathstodon.xyz/@logicbot/112849610642118363</id>
+        <link href="https://mathstodon.xyz/@logicbot/112849610642118363"/>
+        <updated>2024-07-25T23:00:04.000Z</updated>
+        <summary type="html"><![CDATA[((¬a⇿b)∨(a∨¬a))
+- Logic Bot (@logicbot) July 25, 2024]]></summary>
+        <author>
+            <name>@logicbot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨👉 10♥️ 👨👉 K♦️]]></title>
+        <id>https://mathstodon.xyz/@beggarmyneighbour/112849610564230526</id>
+        <link href="https://mathstodon.xyz/@beggarmyneighbour/112849610564230526"/>
+        <updated>2024-07-25T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[👨👉 10♥️
+👨👉 K♦️
+- Beggar-my-neighbour forever (@beggarmyneighbour) July 25, 2024]]></summary>
+        <author>
+            <name>@beggarmyneighbour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reading with interest the discussion about the future of SIGSAM in relationship with ACM (https://sigsam.hosting.acm.org/future-forum/viewforum.php?f=4).]]></title>
+        <id>https://mathstodon.xyz/@gadmm/112849572145171250</id>
+        <link href="https://mathstodon.xyz/@gadmm/112849572145171250"/>
+        <updated>2024-07-25T22:50:17.000Z</updated>
+        <summary type="html"><![CDATA[Reading with interest the discussion about the future of SIGSAM in relationship with ACM (https://sigsam.hosting.acm.org/future-forum/viewforum.php?f=4).
+- Guillaume Munch-Maccagnoni (@gadmm) July 25, 2024]]></summary>
+        <author>
+            <name>@gadmm</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[For my hitomezashi peeps out there]]></title>
         <id>https://mathstodon.xyz/@MathOfSecrets/112844308055917894</id>

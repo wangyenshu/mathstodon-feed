@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@sc_griffith/112850002092642516",
+          "author": "@sc_griffith",
+          "description": "checking out a subreddit for lovers of ai art\n- 🐙🐇🐝Pointed Sarah🐞🐡🐧 (@sc_griffith) July 25, 2024",
+          "link": "https://mathstodon.xyz/@sc_griffith/112850002092642516",
+          "publishedOn": "2024-07-26T00:39:37.000Z",
+          "wordCount": 123,
+          "title": "checking out a subreddit for lovers of ai art",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/849/989/922/128/798/original/483b1619cfdc0dfa.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@JordiGH/112849952124556906",
+          "author": "@JordiGH",
+          "description": "From IRC:\n linkdd: I used to play Red Alert 2 like it was Sim Base.\n Mostly in multiplayer.\n We'd both be building our base...\n But we were very conflict-shy.\n If we saw each other across the fog of war, we'd apologise for the intrusion and run away.\n Hence, Sim Base.\n  If we saw each other across the fog of war, we'd apologise for the intrusion and run away.\n canadian rts'ers\n#RedAlert #RTS #multiplayer #IRC #lobsters\n- JordiGH (@JordiGH) July 25, 2024",
+          "link": "https://mathstodon.xyz/@JordiGH/112849952124556906",
+          "publishedOn": "2024-07-26T00:26:55.000Z",
+          "wordCount": 123,
+          "title": "From IRC: <JordiGH> linkdd: I used to play Red Alert 2 like it was Sim Base. <JordiGH> Mostly in multiplayer. <JordiGH> We'd both be building our base... <JordiGH> But we were very conflict-shy. <JordiGH> If we saw each other across the fog of war, we'd apologise for the intrusion and run away. <JordiGH> Hence, Sim Base. <kline> <JordiGH> If we saw each other across the fog of war, we'd apologise for the intrusion and run away. <kline> canadian rts'ers #RedAlert #RTS #multiplayer #IRC #lobsters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@highergeometer/112849800746207487",
+          "author": "@highergeometer",
+          "description": "AI isn't a free lunch\nhttps://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808\n- theHigherGeometer (@highergeometer) July 25, 2024",
+          "link": "https://mathstodon.xyz/@highergeometer/112849800746207487",
+          "publishedOn": "2024-07-25T23:48:25.000Z",
+          "wordCount": 119,
+          "title": "AI isn't a free lunch https://www.abc.net.au/news/2024-07-26/data-centre-electricity-grid-demand/104140808",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112849756644379914",
+          "author": "@markusde",
+          "description": "Current objective: survive (don't take a nap)\n- PRO EMACS GAMER (@markusde) July 25, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112849756644379914",
+          "publishedOn": "2024-07-25T23:37:12.000Z",
+          "wordCount": 122,
+          "title": "Replied to: Sleep depraved",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112849746921150234",
+          "author": "@markusde",
+          "description": "Sleep depraved\n- PRO EMACS GAMER (@markusde) July 25, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112849746921150234",
+          "publishedOn": "2024-07-25T23:34:44.000Z",
+          "wordCount": 117,
+          "title": "Sleep depraved",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@taatm/112849689468398251",
+          "author": "@taatm",
+          "description": "Bank error in your favour.\nCollect two billion dollars.\n#Ukraine 🇺🇦\nhttps://kyivindependent.com/pentagon-finds-accounting-errors-worth-2-billion-in-aid-for-ukraine/\n- The Animal and the Machine (@taatm) July 25, 2024",
+          "link": "https://mathstodon.xyz/@taatm/112849689468398251",
+          "publishedOn": "2024-07-25T23:20:07.000Z",
+          "wordCount": 126,
+          "title": "Bank error in your favour. Collect two billion dollars. #Ukraine 🇺🇦 https://kyivindependent.com/pentagon-finds-accounting-errors-worth-2-billion-in-aid-for-ukraine/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@varikvalefor/112849657058505777",
+          "author": "@varikvalefor",
+          "description": "export TMP=$(mktemp -p /mnt2/vvx/)\nexport AFE=opus\nexport VFE=$4\nffmpeg -i $1 -ar 8k -ab 2k $TMP-a.$AFE &\nffmpeg -i $1 -f rawvideo - | ffmpeg -ar 44100 -f u8 -i - -y -ab $3 $TMP-v.$VFE &\nwait\nffmpeg -i $TMP-v.$VFE -f u8 -ar 44100 - | ffmpeg -f rawvideo -s $2 -i - $TMP-v2.mp4 &\nwait\nffmpeg -i $TMP-a.$AFE -i $TMP-v2.mp4 -c:v copy -c:a aac -y $TMP.mp4\n- la .varik. .VALefor. (@varikvalefor) July 25, 2024",
+          "link": "https://mathstodon.xyz/@varikvalefor/112849657058505777",
+          "publishedOn": "2024-07-25T23:11:52.000Z",
+          "wordCount": 121,
+          "title": "export TMP=$(mktemp -p /mnt2/vvx/) export AFE=opus export VFE=$4 ffmpeg -i $1 -ar 8k -ab 2k $TMP-a.$AFE & ffmpeg -i $1 -f rawvideo - | ffmpeg -ar 44100 -f u8 -i - -y -ab $3 $TMP-v.$VFE & wait ffmpeg -i $TMP-v.$VFE -f u8 -ar 44100 - | ffmpeg -f rawvideo -s $2 -i - $TMP-v2.mp4 & wait ffmpeg -i $TMP-a.$AFE -i $TMP-v2.mp4 -c:v copy -c:a aac -y $TMP.mp4",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112849610642118363",
+          "author": "@logicbot",
+          "description": "((¬a⇿b)∨(a∨¬a))\n- Logic Bot (@logicbot) July 25, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112849610642118363",
+          "publishedOn": "2024-07-25T23:00:04.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇿b)∨(a∨¬a))",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112849610564230526",
+          "author": "@beggarmyneighbour",
+          "description": "👨👉 10♥️\n👨👉 K♦️\n- Beggar-my-neighbour forever (@beggarmyneighbour) July 25, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112849610564230526",
+          "publishedOn": "2024-07-25T23:00:03.000Z",
+          "wordCount": 118,
+          "title": "👨👉 10♥️ 👨👉 K♦️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@gadmm/112849572145171250",
+          "author": "@gadmm",
+          "description": "Reading with interest the discussion about the future of SIGSAM in relationship with ACM (https://sigsam.hosting.acm.org/future-forum/viewforum.php?f=4).\n- Guillaume Munch-Maccagnoni (@gadmm) July 25, 2024",
+          "link": "https://mathstodon.xyz/@gadmm/112849572145171250",
+          "publishedOn": "2024-07-25T22:50:17.000Z",
+          "wordCount": 122,
+          "title": "Reading with interest the discussion about the future of SIGSAM in relationship with ACM (https://sigsam.hosting.acm.org/future-forum/viewforum.php?f=4).",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@MathOfSecrets/112844308055917894",
           "author": "@MathOfSecrets",
           "description": "For my hitomezashi peeps out there\n- The Mathematics of Secrets (@MathOfSecrets) July 24, 2024",
