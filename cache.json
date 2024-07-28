@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@jsiehler/112861287244792985",
+          "author": "@jsiehler",
+          "description": "Calculations in Another World | Tropical Geometry\nhttps://www.youtube.com/watch?v=eHVchEZuU7Q\n- (@jsiehler) July 27, 2024",
+          "link": "https://mathstodon.xyz/@jsiehler/112861287244792985",
+          "publishedOn": "2024-07-28T00:29:35.000Z",
+          "wordCount": 120,
+          "title": "Calculations in Another World | Tropical Geometry https://www.youtube.com/watch?v=eHVchEZuU7Q",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112861275656494511",
+          "author": "@markusde",
+          "description": "I said I was done but I was window-shopping some Taylor series on google images and I could definitely do arctan\n- markusde (@markusde) July 27, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112861275656494511",
+          "publishedOn": "2024-07-28T00:26:38.000Z",
+          "wordCount": 124,
+          "title": "I said I was done but I was window-shopping some Taylor series on google images and I could definitely do arctan",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@AmenZwa/112861161332602453",
+          "author": "@AmenZwa",
+          "description": "This early 1980s #Burmese pop song by #KhineHtoo was a No. 1 hit in the country, during my college year in #Burma. The title, \"သိလား\", means \"Do you realise?\".\nhttps://youtu.be/x7LakjAo79o?si=T-kXbFf1rN8eUFTD\nWhen I was a child a decade prior, he was a college student at #RASU, the Rangoon Arts and Sciences University.\nhttps://en.wikipedia.org/wiki/University_of_Yangon\nThe university offered summer swimming classes at its Olympic-sized pool. This man was one of the top collegiate swimmers in the nation, and he was a star instructor on this swimming programme. He could swim, under water, the length of the pool, and his forte was butterfly. The elegance, the fluidity—his style was a sight to behold. He taught me how to swim.\nI reminisce about those days, some fifty years later.\n- amen zwa, esq. (@AmenZwa) July 27, 2024",
+          "link": "https://mathstodon.xyz/@AmenZwa/112861161332602453",
+          "publishedOn": "2024-07-27T23:57:34.000Z",
+          "wordCount": 124,
+          "title": "This early 1980s #Burmese pop song by #KhineHtoo was a No. 1 hit in the country, during my college year in #Burma. The title, \"သိလား\", means \"Do you realise?\". https://youtu.be/x7LakjAo79o?si=T-kXbFf1rN8eUFTD When I was a child a decade prior, he was a college student at #RASU, the Rangoon Arts and Sciences University. https://en.wikipedia.org/wiki/University_of_Yangon The university offered summer swimming classes at its Olympic-sized pool. This man was one of the top collegiate swimmers in the nation, and he was a star instructor on this swimming programme. He could swim, under water, the length of the pool, and his forte was butterfly. The elegance, the fluidity—his style was a sight to behold. He taught me how to swim. I reminisce about those days, some fifty years later.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@albertcardona/112861038064709105",
+          "author": "@albertcardona",
+          "description": "The deserts of Cambridge, Massachusetts (left). Species diversity approaches zero.\nThe jungles of Cambridge, Massachusetts (right). A two-meter wide band along each riverside. Hundreds of invertebrate species.\n- Albert Cardona (@albertcardona) July 27, 2024",
+          "link": "https://mathstodon.xyz/@albertcardona/112861038064709105",
+          "publishedOn": "2024-07-27T23:26:13.000Z",
+          "wordCount": 121,
+          "title": "The deserts of Cambridge, Massachusetts (left). Species diversity approaches zero. The jungles of Cambridge, Massachusetts (right). A two-meter wide band along each riverside. Hundreds of invertebrate species.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/861/030/518/822/108/original/f7911a090aaaa904.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@albertcardona/112861009950054987",
+          "author": "@albertcardona",
+          "description": "The Harvard Mastodon!\nExhibit at the Museum of Natural History, Harvard University.\n#mastodon #paleontology\n- Albert Cardona (@albertcardona) July 27, 2024",
+          "link": "https://mathstodon.xyz/@albertcardona/112861009950054987",
+          "publishedOn": "2024-07-27T23:19:04.000Z",
+          "wordCount": 123,
+          "title": "The Harvard Mastodon! Exhibit at the Museum of Natural History, Harvard University. #mastodon #paleontology",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/861/006/156/160/343/original/c7765ae7e16437a8.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@albertcardona/112860995419688496",
+          "author": "@albertcardona",
+          "description": "Jumping spiders as cats, says the Museum of Natural History at Harvard University:\n- Albert Cardona (@albertcardona) July 27, 2024",
+          "link": "https://mathstodon.xyz/@albertcardona/112860995419688496",
+          "publishedOn": "2024-07-27T23:15:22.000Z",
+          "wordCount": 123,
+          "title": "Jumping spiders as cats, says the Museum of Natural History at Harvard University:",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/860/992/736/287/925/original/190ff11ea0bbc368.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112860935288827457",
+          "author": "@logicbot",
+          "description": "((¬a⇿b)⇾(¬a⇿b))\n- Logic Bot (@logicbot) July 27, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112860935288827457",
+          "publishedOn": "2024-07-27T23:00:05.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇿b)⇾(¬a⇿b))",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112860935186485210",
+          "author": "@beggarmyneighbour",
+          "description": "👨👉 6♠️\n- Beggar-my-neighbour forever (@beggarmyneighbour) July 27, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112860935186485210",
+          "publishedOn": "2024-07-27T23:00:03.000Z",
+          "wordCount": 116,
+          "title": "👨👉 6♠️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@olligobber/112860907901333495",
+          "author": "@olligobber",
+          "description": "#Connections \nPuzzle #413\n🟩🟩🟩🟩\n🟦🟦🟦🟦\n🟨🟨🟨🟨\n🟪🟪🟪🟪\n- olligobber (@olligobber) July 27, 2024",
+          "link": "https://mathstodon.xyz/@olligobber/112860907901333495",
+          "publishedOn": "2024-07-27T22:53:07.000Z",
+          "wordCount": 115,
+          "title": "#Connections Puzzle #413 🟩🟩🟩🟩 🟦🟦🟦🟦 🟨🟨🟨🟨 🟪🟪🟪🟪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@AmenZwa/112860905252464297",
+          "author": "@AmenZwa",
+          "description": "The #Republicans want a #dictatorship, led by a #dick. A dictator secures his power not by election, but by killing another dictator who held the absolute power he covets.\nThe Republicans want to anoint #tRump, dismantle our Constitution, and end elections for all times. These desires are incompatible with our American ideals of freedom, choice, and peaceful transition of power. It is nonsensical for the Republicans to partake in our democratic #elections.\n- amen zwa, esq. (@AmenZwa) July 27, 2024",
+          "link": "https://mathstodon.xyz/@AmenZwa/112860905252464297",
+          "publishedOn": "2024-07-27T22:52:26.000Z",
+          "wordCount": 124,
+          "title": "The #Republicans want a #dictatorship, led by a #dick. A dictator secures his power not by election, but by killing another dictator who held the absolute power he covets. The Republicans want to anoint #tRump, dismantle our Constitution, and end elections for all times. These desires are incompatible with our American ideals of freedom, choice, and peaceful transition of power. It is nonsensical for the Republicans to partake in our democratic #elections.",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@markusde/112855665714877561",
           "author": "@markusde",
           "description": "Tomorrow morning. I'll attempt it tomorrow morning.\n- PRO EMACS GAMER (@markusde) July 26, 2024",
