@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@fibresquare/112866795343027028",
+          "author": "noreply@mathstodon.xyz (fibresquare)",
+          "description": "One of the best piano solos I've heard recently and great playing all around: https://www.youtube.com/watch?v=IfBb7XtIHwY\n- Evan Marth (fibresquare) July 28, 2024",
+          "link": "https://mathstodon.xyz/@fibresquare/112866795343027028",
+          "publishedOn": "2024-07-28T23:50:22.000Z",
+          "wordCount": 124,
+          "title": "One of the best piano solos I've heard recently and great playing all around: https://www.youtube.com/watch?v=IfBb7XtIHwY",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112866788511787550",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "I smell rain. Activated.\n- markusde (markusde) July 28, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112866788511787550",
+          "publishedOn": "2024-07-28T23:48:38.000Z",
+          "wordCount": 117,
+          "title": "I smell rain. Activated.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@JordiGH/112866768271042065",
+          "author": "noreply@mathstodon.xyz (JordiGH)",
+          "description": "You should have seen what the earlier models retailed for.\n- JordiGH (JordiGH) July 28, 2024",
+          "link": "https://mathstodon.xyz/@JordiGH/112866768271042065",
+          "publishedOn": "2024-07-28T23:43:29.000Z",
+          "wordCount": 122,
+          "title": "You should have seen what the earlier models retailed for.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/866/766/248/694/731/original/5c358f5df4b411ad.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@highergeometer/112866697344540403",
+          "author": "noreply@mathstodon.xyz (highergeometer)",
+          "description": "I'm glad I didn't know about this paper until now\nMarquis, Jean-Pierre (2017). \"Canonical Maps\" In Elaine M. Landry (ed.), Categories for the Working Philosopher. Oxford, England: Oxford University Press. pp. 90-112.\nhttps://philarchive.org/rec/MARCM-7\nbecause I wouldn't have done my own digging and found out more to the history than presented there. I know earlier Bourbaki texts containing the term, and indeed exactly who did introduce it. If I took the story in the above, I would probably have stopped there.\n- theHigherGeometer (highergeometer) July 28, 2024",
+          "link": "https://mathstodon.xyz/@highergeometer/112866697344540403",
+          "publishedOn": "2024-07-28T23:25:26.000Z",
+          "wordCount": 123,
+          "title": "I'm glad I didn't know about this paper until now Marquis, Jean-Pierre (2017). \"Canonical Maps\" In Elaine M. Landry (ed.), Categories for the Working Philosopher. Oxford, England: Oxford University Press. pp. 90-112. https://philarchive.org/rec/MARCM-7 because I wouldn't have done my own digging and found out more to the history than presented there. I know earlier Bourbaki texts containing the term, and indeed exactly who did introduce it. If I took the story in the above, I would probably have stopped there.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112866597607406054",
+          "author": "noreply@mathstodon.xyz (logicbot)",
+          "description": "((¬a⇿b)⇾(a⇾¬b))\n- Logic Bot (logicbot) July 28, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112866597607406054",
+          "publishedOn": "2024-07-28T23:00:05.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇿b)⇾(a⇾¬b))",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112866597519162202",
+          "author": "noreply@mathstodon.xyz (beggarmyneighbour)",
+          "description": "👨👉 2♠️\n- Beggar-my-neighbour forever (beggarmyneighbour) July 28, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112866597519162202",
+          "publishedOn": "2024-07-28T23:00:03.000Z",
+          "wordCount": 116,
+          "title": "👨👉 2♠️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@marcschmidtpujol/112866408246674282",
+          "author": "noreply@mathstodon.xyz (marcschmidtpujol)",
+          "description": "This vector space is funny:\ne.g.:\n\\[ 3 \\oplus 5=3 \\cdot5=15 \\] \n\\[ \\frac{2}{3} \\otimes8=\\sqrt[3]{8^2}=\\sqrt[3]{64}=4 \\] \nSo well, I don't know who came up with this and what his creative intention were. But I considere this funny!\n- MSP (marcschmidtpujol) July 28, 2024",
+          "link": "https://mathstodon.xyz/@marcschmidtpujol/112866408246674282",
+          "publishedOn": "2024-07-28T22:11:55.000Z",
+          "wordCount": 123,
+          "title": "This vector space is funny: e.g.: \\[ 3 \\oplus 5=3 \\cdot5=15 \\] \\[ \\frac{2}{3} \\otimes8=\\sqrt[3]{8^2}=\\sqrt[3]{64}=4 \\] So well, I don't know who came up with this and what his creative intention were. But I considere this funny!",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/866/373/264/121/843/original/38605a06c4adab92.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@vam103/112866392199861025",
+          "author": "noreply@mathstodon.xyz (vam103)",
+          "description": "It is annoying when I see an idea I had appear in my feed. The main problem I have is that when I see this I also see how I failed to finish the project myself.\n- (vam103) July 28, 2024",
+          "link": "https://mathstodon.xyz/@vam103/112866392199861025",
+          "publishedOn": "2024-07-28T22:07:50.000Z",
+          "wordCount": 125,
+          "title": "It is annoying when I see an idea I had appear in my feed. The main problem I have is that when I see this I also see how I failed to finish the project myself.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112866340384633648",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "Going for a walk to avoid thinking about housing\n\n            \n\"I should find somewhere to eat avocado toast for dinner\" guys it is joever for me\n- markusde (markusde) July 28, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112866340384633648",
+          "publishedOn": "2024-07-28T21:54:40.000Z",
+          "wordCount": 122,
+          "title": "Replied to: Going for a walk to avoid thinking about housing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112866297407479947",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "Going for a walk to avoid thinking about housing\n- markusde (markusde) July 28, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112866297407479947",
+          "publishedOn": "2024-07-28T21:43:44.000Z",
+          "wordCount": 122,
+          "title": "Going for a walk to avoid thinking about housing",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@jsiehler/112861287244792985",
           "author": "@jsiehler",
           "description": "Calculations in Another World | Tropical Geometry\nhttps://www.youtube.com/watch?v=eHVchEZuU7Q\n- (@jsiehler) July 27, 2024",

@@ -2,10 +2,130 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-07-28T00:52:54.153Z</updated>
+    <updated>2024-07-29T00:50:20.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One of the best piano solos I've heard recently and great playing all around: https://www.youtube.com/watch?v=IfBb7XtIHwY]]></title>
+        <id>https://mathstodon.xyz/@fibresquare/112866795343027028</id>
+        <link href="https://mathstodon.xyz/@fibresquare/112866795343027028"/>
+        <updated>2024-07-28T23:50:22.000Z</updated>
+        <summary type="html"><![CDATA[One of the best piano solos I've heard recently and great playing all around: https://www.youtube.com/watch?v=IfBb7XtIHwY
+- Evan Marth (fibresquare) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (fibresquare)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I smell rain. Activated.]]></title>
+        <id>https://mathstodon.xyz/@markusde/112866788511787550</id>
+        <link href="https://mathstodon.xyz/@markusde/112866788511787550"/>
+        <updated>2024-07-28T23:48:38.000Z</updated>
+        <summary type="html"><![CDATA[I smell rain. Activated.
+- markusde (markusde) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (markusde)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You should have seen what the earlier models retailed for.]]></title>
+        <id>https://mathstodon.xyz/@JordiGH/112866768271042065</id>
+        <link href="https://mathstodon.xyz/@JordiGH/112866768271042065"/>
+        <updated>2024-07-28T23:43:29.000Z</updated>
+        <summary type="html"><![CDATA[You should have seen what the earlier models retailed for.
+- JordiGH (JordiGH) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (JordiGH)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm glad I didn't know about this paper until now Marquis, Jean-Pierre (2017). "Canonical Maps" In Elaine M. Landry (ed.), Categories for the Working Philosopher. Oxford, England: Oxford University Press. pp. 90-112. https://philarchive.org/rec/MARCM-7 because I wouldn't have done my own digging and found out more to the history than presented there. I know earlier Bourbaki texts containing the term, and indeed exactly who did introduce it. If I took the story in the above, I would probably have stopped there.]]></title>
+        <id>https://mathstodon.xyz/@highergeometer/112866697344540403</id>
+        <link href="https://mathstodon.xyz/@highergeometer/112866697344540403"/>
+        <updated>2024-07-28T23:25:26.000Z</updated>
+        <summary type="html"><![CDATA[I'm glad I didn't know about this paper until now
+Marquis, Jean-Pierre (2017). "Canonical Maps" In Elaine M. Landry (ed.), Categories for the Working Philosopher. Oxford, England: Oxford University Press. pp. 90-112.
+https://philarchive.org/rec/MARCM-7
+because I wouldn't have done my own digging and found out more to the history than presented there. I know earlier Bourbaki texts containing the term, and indeed exactly who did introduce it. If I took the story in the above, I would probably have stopped there.
+- theHigherGeometer (highergeometer) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (highergeometer)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[((¬a⇿b)⇾(a⇾¬b))]]></title>
+        <id>https://mathstodon.xyz/@logicbot/112866597607406054</id>
+        <link href="https://mathstodon.xyz/@logicbot/112866597607406054"/>
+        <updated>2024-07-28T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[((¬a⇿b)⇾(a⇾¬b))
+- Logic Bot (logicbot) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (logicbot)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[👨👉 2♠️]]></title>
+        <id>https://mathstodon.xyz/@beggarmyneighbour/112866597519162202</id>
+        <link href="https://mathstodon.xyz/@beggarmyneighbour/112866597519162202"/>
+        <updated>2024-07-28T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[👨👉 2♠️
+- Beggar-my-neighbour forever (beggarmyneighbour) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (beggarmyneighbour)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This vector space is funny: e.g.: \[ 3 \oplus 5=3 \cdot5=15 \] \[ \frac{2}{3} \otimes8=\sqrt[3]{8^2}=\sqrt[3]{64}=4 \] So well, I don't know who came up with this and what his creative intention were. But I considere this funny!]]></title>
+        <id>https://mathstodon.xyz/@marcschmidtpujol/112866408246674282</id>
+        <link href="https://mathstodon.xyz/@marcschmidtpujol/112866408246674282"/>
+        <updated>2024-07-28T22:11:55.000Z</updated>
+        <summary type="html"><![CDATA[This vector space is funny:
+e.g.:
+\[ 3 \oplus 5=3 \cdot5=15 \] 
+\[ \frac{2}{3} \otimes8=\sqrt[3]{8^2}=\sqrt[3]{64}=4 \] 
+So well, I don't know who came up with this and what his creative intention were. But I considere this funny!
+- MSP (marcschmidtpujol) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (marcschmidtpujol)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It is annoying when I see an idea I had appear in my feed. The main problem I have is that when I see this I also see how I failed to finish the project myself.]]></title>
+        <id>https://mathstodon.xyz/@vam103/112866392199861025</id>
+        <link href="https://mathstodon.xyz/@vam103/112866392199861025"/>
+        <updated>2024-07-28T22:07:50.000Z</updated>
+        <summary type="html"><![CDATA[It is annoying when I see an idea I had appear in my feed. The main problem I have is that when I see this I also see how I failed to finish the project myself.
+- (vam103) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (vam103)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replied to: Going for a walk to avoid thinking about housing]]></title>
+        <id>https://mathstodon.xyz/@markusde/112866340384633648</id>
+        <link href="https://mathstodon.xyz/@markusde/112866340384633648"/>
+        <updated>2024-07-28T21:54:40.000Z</updated>
+        <summary type="html"><![CDATA[Going for a walk to avoid thinking about housing
+
+            
+"I should find somewhere to eat avocado toast for dinner" guys it is joever for me
+- markusde (markusde) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (markusde)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Going for a walk to avoid thinking about housing]]></title>
+        <id>https://mathstodon.xyz/@markusde/112866297407479947</id>
+        <link href="https://mathstodon.xyz/@markusde/112866297407479947"/>
+        <updated>2024-07-28T21:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Going for a walk to avoid thinking about housing
+- markusde (markusde) July 28, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (markusde)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calculations in Another World | Tropical Geometry https://www.youtube.com/watch?v=eHVchEZuU7Q]]></title>
         <id>https://mathstodon.xyz/@jsiehler/112861287244792985</id>
