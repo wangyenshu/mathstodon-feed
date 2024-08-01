@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@AmenZwa/112884016910720551",
+          "author": "noreply@mathstodon.xyz (AmenZwa)",
+          "description": "\"Wonderful World\" by the inimitable Sam Cooke\nThe only song I know with #SlideRule in the lyrics\nhttps://youtu.be/R4GLAKEjU4w?si=DyhF3fjHa6qM5_EU\n- amen zwa, esq. (AmenZwa) July 31, 2024",
+          "link": "https://mathstodon.xyz/@AmenZwa/112884016910720551",
+          "publishedOn": "2024-08-01T00:50:02.000Z",
+          "wordCount": 123,
+          "title": "\"Wonderful World\" by the inimitable Sam Cooke The only song I know with #SlideRule in the lyrics https://youtu.be/R4GLAKEjU4w?si=DyhF3fjHa6qM5_EU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@peterb/112883938208277703",
+          "author": "noreply@mathstodon.xyz (peterb)",
+          "description": "I love this anime. It's a masterpiece. And although I was irritated with them de-gaying Eugenie, it still works for the narrative.\nI'm very sad that they changed the duel plot line to, effectively, fridge Franz d'Epinay.\n\n            \nThe entire second half of Gankutsuou can be summarized as \"Albert cries a lot\" and TBH this is very relatable\n- peterb (peterb) July 31, 2024",
+          "link": "https://mathstodon.xyz/@peterb/112883938208277703",
+          "publishedOn": "2024-08-01T00:30:01.000Z",
+          "wordCount": 121,
+          "title": "Replied to: I love this anime. It's a masterpiece. And although I was irritated with them de-gaying Eugenie, it still works for the narrative. I'm very sad that they changed the duel plot line to, effectively, fridge Franz d'Epinay.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@vsaraph/112883935276503362",
+          "author": "noreply@mathstodon.xyz (vsaraph)",
+          "description": "I will be talking about homomorphic encryption at HOPE in a couple of months! Come see me speak https://hope.net/talks.html\n\n            \nMy talk at @hopeconf is viewable online at roughly the 6:25:00 mark: https://livestream.com/internetsociety3/hope2024/videos/247995934\nI'd gotten lots of questions after the talk, which I'm very happy about. This is probably the most engaging talk that I've ever given by that metric.\nI didn't get to answer some of the questions that I'd said I'd answer offline, but feel free to get in touch with me if you're reading this and want to know more (I know a couple of attendees followed me and some of you are probably reading this).\nAnd as always, corrections about technical inaccuracies are always welcome. I'll be following up with posts of references to some of the papers, etc, that I'd mentioned.\n- Vikram Saraph (vsaraph) July 31, 2024",
+          "link": "https://mathstodon.xyz/@vsaraph/112883935276503362",
+          "publishedOn": "2024-08-01T00:29:16.000Z",
+          "wordCount": 121,
+          "title": "Replied to: I will be talking about homomorphic encryption at HOPE in a couple of months! Come see me speak https://hope.net/talks.html",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@olligobber/112883923737226037",
+          "author": "noreply@mathstodon.xyz (olligobber)",
+          "description": "#Wordle 1,139 4/6\n⬜🟨🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩⬜⬜\n🟩🟩🟩🟩🟩\n- olligobber (olligobber) July 31, 2024",
+          "link": "https://mathstodon.xyz/@olligobber/112883923737226037",
+          "publishedOn": "2024-08-01T00:26:20.000Z",
+          "wordCount": 115,
+          "title": "#Wordle 1,139 4/6 ⬜🟨🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩⬜⬜ 🟩🟩🟩🟩🟩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@olligobber/112883915430938813",
+          "author": "noreply@mathstodon.xyz (olligobber)",
+          "description": "#Connections \nPuzzle #417\n🟨🟨🟨🟨\n🟩🟩🟩🟩\n🟦🟦🟦🟦\n🟪🟪🟪🟪\n- olligobber (olligobber) July 31, 2024",
+          "link": "https://mathstodon.xyz/@olligobber/112883915430938813",
+          "publishedOn": "2024-08-01T00:24:14.000Z",
+          "wordCount": 115,
+          "title": "#Connections Puzzle #417 🟨🟨🟨🟨 🟩🟩🟩🟩 🟦🟦🟦🟦 🟪🟪🟪🟪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@peterb/112883912222453140",
+          "author": "noreply@mathstodon.xyz (peterb)",
+          "description": "I love this anime. It's a masterpiece. And although I was irritated with them de-gaying Eugenie, it still works for the narrative.\nI'm very sad that they changed the duel plot line to, effectively, fridge Franz d'Epinay.\n- peterb (peterb) July 31, 2024",
+          "link": "https://mathstodon.xyz/@peterb/112883912222453140",
+          "publishedOn": "2024-08-01T00:23:25.000Z",
+          "wordCount": 121,
+          "title": "I love this anime. It's a masterpiece. And although I was irritated with them de-gaying Eugenie, it still works for the narrative. I'm very sad that they changed the duel plot line to, effectively, fridge Franz d'Epinay.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@littmath/112883853001184333",
+          "author": "noreply@mathstodon.xyz (littmath)",
+          "description": "I wrote a MathOverflow question about a mystery in Eisenstein’s final paper, written in 1852, the year he died of tuberculosis at the age of 29. Please help! (Or speculate wildly below.) https://mathoverflow.net/questions/476129/eisensteins-last-theorem\n\n            \n@antoinechambertloir maybe you have some idea?\n- littmath (littmath) July 31, 2024",
+          "link": "https://mathstodon.xyz/@littmath/112883853001184333",
+          "publishedOn": "2024-08-01T00:08:21.000Z",
+          "wordCount": 119,
+          "title": "Replied to: I wrote a MathOverflow question about a mystery in Eisenstein’s final paper, written in 1852, the year he died of tuberculosis at the age of 29. Please help! (Or speculate wildly below.) https://mathoverflow.net/questions/476129/eisensteins-last-theorem",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@blugol13/112883762977403451",
+          "author": "noreply@mathstodon.xyz (blugol13)",
+          "description": "RT Fermat's Library on X:\nIn 1969 Apollo 11, the spaceflight that first landed humans on the Moon, used these 30 lines of code to calculate transcendental functions like sine and cosine essential for navigation https://t.co/MVvj24EX4L\nhttps://x.com/fermatslibrary/status/1818794614884552965\n- bluegol (blugol13) July 31, 2024",
+          "link": "https://mathstodon.xyz/@blugol13/112883762977403451",
+          "publishedOn": "2024-07-31T23:45:27.000Z",
+          "wordCount": 124,
+          "title": "RT Fermat's Library on X: In 1969 Apollo 11, the spaceflight that first landed humans on the Moon, used these 30 lines of code to calculate transcendental functions like sine and cosine essential for navigation https://t.co/MVvj24EX4L https://x.com/fermatslibrary/status/1818794614884552965",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@djspacewhale/112883666359272902",
+          "author": "noreply@mathstodon.xyz (djspacewhale)",
+          "description": "lol i owe all of my unemployment money back to the state of Montana\n- Garrett Figueroa (djspacewhale) July 31, 2024",
+          "link": "https://mathstodon.xyz/@djspacewhale/112883666359272902",
+          "publishedOn": "2024-07-31T23:20:53.000Z",
+          "wordCount": 125,
+          "title": "lol i owe all of my unemployment money back to the state of Montana",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@Shilin0127/112883641787504940",
+          "author": "noreply@mathstodon.xyz (Shilin0127)",
+          "description": "給新家買窗簾，在阿里上選了半天，找半天找不到喜歡的，好不容易看中某一個，準備下單時，忽然驚醒：這和我在中國的家裡買的是完全一樣的！\n#lifenotes\n- Leisaa (Shilin0127) July 31, 2024",
+          "link": "https://mathstodon.xyz/@Shilin0127/112883641787504940",
+          "publishedOn": "2024-07-31T23:14:38.000Z",
+          "wordCount": 114,
+          "title": "給新家買窗簾，在阿里上選了半天，找半天找不到喜歡的，好不容易看中某一個，準備下單時，忽然驚醒：這和我在中國的家裡買的是完全一樣的！ #lifenotes",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@jcponcemath/112878183244567680",
           "author": "noreply@mathstodon.xyz (jcponcemath)",
           "description": "RAIZ CUADRADA INVERSA RÁPIDA: El algoritmo \"mágico\" del videojuego Quake... https://youtu.be/0xyycrTekc4?si=Np_wu9L2VA0KmtJ0\n- ∞ 𝕁uan ℂarlos (jcponcemath) July 30, 2024",
@@ -2904,106 +3004,6 @@
           "wordCount": 123,
           "title": "Spending part of my staycation watching some old movies. Spotted yet another paper sheet used to illustrate folded space time in a movie. Deja Vu (2006). I have a strange desire to collect these scenes. While I'm here, two other things worthy of note: (1) it has best use of a sci-fi idea to motivate a car chase (2) it has the absolute stupidest thing ever in a movie. It's the laser pointer scene in the trailer so just watch it. Update: Maybe it's not in all versions of the trailer so I have to describe it. Denzel Washington points a laser pointer at a display and it comes out the other end ie. in view of the people under surveillance in the display. No, it's not the space time portal. It's one of many bordered windows tiled on a large screen.",
           "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/719/473/533/370/900/original/af5019b5751a9a63.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@jebeyer/112714076762610537",
-          "author": "@jebeyer",
-          "description": "I watched Maborosi this weekend. (It's streaming on Kanopy in the US.) I've seen it several times, but this was the first time in probably 10 years. It's an incredible film - just as beautiful and affecting as ever.\n- James Beyer (@jebeyer) July 1, 2024",
-          "link": "https://mathstodon.xyz/@jebeyer/112714076762610537",
-          "publishedOn": "2024-07-02T00:32:01.000Z",
-          "wordCount": 122,
-          "title": "I watched Maborosi this weekend. (It's streaming on Kanopy in the US.) I've seen it several times, but this was the first time in probably 10 years. It's an incredible film - just as beautiful and affecting as ever.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@ColinTheMathmo/112714061294919077",
-          "author": "@ColinTheMathmo",
-          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 02:00:44, duration 185 secs, bright, Magnitude -2.4\n- Colin the Mathmo (@ColinTheMathmo) July 1, 2024",
-          "link": "https://mathstodon.xyz/@ColinTheMathmo/112714061294919077",
-          "publishedOn": "2024-07-02T00:28:05.000Z",
-          "wordCount": 124,
-          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 02:00:44, duration 185 secs, bright, Magnitude -2.4",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112714018605225710",
-          "author": "@markusde",
-          "description": "Cis man gener euphoria is having an inside camping chair and inside flip flops\n- Classical Proover (@markusde) July 1, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112714018605225710",
-          "publishedOn": "2024-07-02T00:17:14.000Z",
-          "wordCount": 123,
-          "title": "Replied to: I have acquired 50% of my furniture for sublet d day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@geonz/112714018599113533",
-          "author": "@geonz",
-          "description": "#CellTower 789\n⬜⬜⬜⬜⬜⬜➡️➡️➡️➡️⏹️➡️⬇️⬜\n➡️➡️➡️➡️➡️➡️⬆️⬜⬜⬜⬆️⬜➡️➡️\nhttps://www.andrewt.net/puzzles/cell-tower/?p=789\n- cognitively accessible math (@geonz) July 1, 2024",
-          "link": "https://mathstodon.xyz/@geonz/112714018599113533",
-          "publishedOn": "2024-07-02T00:17:14.000Z",
-          "wordCount": 119,
-          "title": "#CellTower 789 ⬜⬜⬜⬜⬜⬜➡️➡️➡️➡️⏹️➡️⬇️⬜ ➡️➡️➡️➡️➡️➡️⬆️⬜⬜⬜⬆️⬜➡️➡️ https://www.andrewt.net/puzzles/cell-tower/?p=789",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112713979167850257",
-          "author": "@markusde",
-          "description": "I have acquired 50% of my furniture for sublet d day\n- Classical Proover (@markusde) July 1, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112713979167850257",
-          "publishedOn": "2024-07-02T00:07:12.000Z",
-          "wordCount": 125,
-          "title": "I have acquired 50% of my furniture for sublet d day",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@dpiponi/112713967473959813",
-          "author": "@dpiponi",
-          "description": "But it made me sad to see an iPod nano 7G (2012) on display. Proof that the myth of the golden age has some validity. Mine's still limping along but it'll be hard to replace when it eventually gives up the ghost.\n- Dan Piponi (@dpiponi) July 1, 2024",
-          "link": "https://mathstodon.xyz/@dpiponi/112713967473959813",
-          "publishedOn": "2024-07-02T00:04:14.000Z",
-          "wordCount": 127,
-          "title": "Replied to: I enjoyed the Art of Noise exhibition at SFMOMA. A fun exhibit was the \"choir\" of 8 synthetic voices (from teenage engineering), each from a speaker in a cute separate wooden \"character\" enclosure.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@dpiponi/112713946814790346",
-          "author": "@dpiponi",
-          "description": "I enjoyed the Art of Noise exhibition at SFMOMA. A fun exhibit was the \"choir\" of 8 synthetic voices (from teenage engineering), each from a speaker in a cute separate wooden \"character\" enclosure.\n- Dan Piponi (@dpiponi) July 1, 2024",
-          "link": "https://mathstodon.xyz/@dpiponi/112713946814790346",
-          "publishedOn": "2024-07-01T23:58:58.000Z",
-          "wordCount": 124,
-          "title": "I enjoyed the Art of Noise exhibition at SFMOMA. A fun exhibit was the \"choir\" of 8 synthetic voices (from teenage engineering), each from a speaker in a cute separate wooden \"character\" enclosure.",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/713/930/329/895/449/original/c4a9708b08648f24.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@johncarlosbaez/112713905961688314",
-          "author": "@johncarlosbaez",
-          "description": "I really like the energy and complexity of Rush's song Tom Sawyer - how it keeps one-upping itself, going to new heights.   If you do too, you may enjoy watching a bunch of first-time reactions to it.   \n\"They set my headphones on fire!\"\nhttps://www.youtube.com/watch?v=4BQUnoVBSto\n- John Carlos Baez (@johncarlosbaez) July 1, 2024",
-          "link": "https://mathstodon.xyz/@johncarlosbaez/112713905961688314",
-          "publishedOn": "2024-07-01T23:48:35.000Z",
-          "wordCount": 124,
-          "title": "I really like the energy and complexity of Rush's song Tom Sawyer - how it keeps one-upping itself, going to new heights. If you do too, you may enjoy watching a bunch of first-time reactions to it. \"They set my headphones on fire!\" https://www.youtube.com/watch?v=4BQUnoVBSto",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@varikvalefor/112713895498148005",
-          "author": "@varikvalefor",
-          "description": "- la .varik. .VALefor. (@varikvalefor) July 1, 2024",
-          "link": "https://mathstodon.xyz/@varikvalefor/112713895498148005",
-          "publishedOn": "2024-07-01T23:45:55.000Z",
-          "wordCount": 116,
-          "title": "an image",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/713/894/069/103/352/original/e488d993d3457d30.jpeg"
-        },
-        {
-          "id": "https://mathstodon.xyz/@caten/112713847197275034",
-          "author": "@caten",
-          "description": "My next Math Research Livestream starts in about 30 minutes on Twitch! Check it out at https://www.twitch.tv/charlotteaten. This week I'm taking another look at my expository article explaining free algebras and presentations by way of division by zero. I'm going to mess around with putting a new, more mathematically mature spin on my old construction from way back when.\n#math #livestream #Twitch #algebra #UniversalAlgebra #AbstractAlgebra #CategoryTheory\n- Charlotte Aten (@caten) July 1, 2024",
-          "link": "https://mathstodon.xyz/@caten/112713847197275034",
-          "publishedOn": "2024-07-01T23:33:38.000Z",
-          "wordCount": 123,
-          "title": "My next Math Research Livestream starts in about 30 minutes on Twitch! Check it out at https://www.twitch.tv/charlotteaten. This week I'm taking another look at my expository article explaining free algebras and presentations by way of division by zero. I'm going to mess around with putting a new, more mathematically mature spin on my old construction from way back when. #math #livestream #Twitch #algebra #UniversalAlgebra #AbstractAlgebra #CategoryTheory",
-          "imageUrl": null
         }
       ]
     }
