@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912301833724422",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "After a brief delay due to pipe cleaner shortage, final assembly begins at #pcmisummer\n#mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912301833724422",
+          "publishedOn": "2024-08-06T00:43:16.000Z",
+          "wordCount": 123,
+          "title": "After a brief delay due to pipe cleaner shortage, final assembly begins at #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/294/343/870/156/original/c3e4ee8dc1befb45.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912215258825538",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "Securing the diagonals of the exploded icosidodecahedron\n#pcmisummer #mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912215258825538",
+          "publishedOn": "2024-08-06T00:21:15.000Z",
+          "wordCount": 121,
+          "title": "Securing the diagonals of the exploded icosidodecahedron #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/214/847/567/192/original/4b91ea1371a2f59f.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912153030327335",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "Glen preparing the rigging for the exploded icosidodecahedron\n#pcmisummer #mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912153030327335",
+          "publishedOn": "2024-08-06T00:05:25.000Z",
+          "wordCount": 122,
+          "title": "Glen preparing the rigging for the exploded icosidodecahedron #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/152/789/550/541/original/11f1ea2e2979d274.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912102670787498",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "Not satisfied with a one-meter-diameter \"exploded icosidodecahedron\", they're doubling a dimension.\n#pcmisummer #mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912102670787498",
+          "publishedOn": "2024-08-05T23:52:37.000Z",
+          "wordCount": 120,
+          "title": "Not satisfied with a one-meter-diameter \"exploded icosidodecahedron\", they're doubling a dimension. #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/102/419/231/799/original/3b92954db841d8e4.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912080131055808",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "A busy night at #pcmisummer\n#mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912080131055808",
+          "publishedOn": "2024-08-05T23:46:53.000Z",
+          "wordCount": 120,
+          "title": "A busy night at #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/079/945/901/452/original/c175624678e373cf.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@caten/112912076162513717",
+          "author": "noreply@mathstodon.xyz (caten)",
+          "description": "I really thought I would be able to stream tonight, but even though I've recovered from covid I'm still not doing well with the jetlag from returning from Asia. It still feels very late in the day to me at this time, and I don't think anyone wants to watch me try to do math when I can't keep my eyes open. I hope to be fully back to normal next week!\n- Charlotte Aten (caten) August 5, 2024",
+          "link": "https://mathstodon.xyz/@caten/112912076162513717",
+          "publishedOn": "2024-08-05T23:45:52.000Z",
+          "wordCount": 124,
+          "title": "I really thought I would be able to stream tonight, but even though I've recovered from covid I'm still not doing well with the jetlag from returning from Asia. It still feels very late in the day to me at this time, and I don't think anyone wants to watch me try to do math when I can't keep my eyes open. I hope to be fully back to normal next week!",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112912070926826424",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "Holy shit I made my human dog food way too spicy\n- Bad Attitude Markus (markusde) August 5, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112912070926826424",
+          "publishedOn": "2024-08-05T23:44:32.000Z",
+          "wordCount": 126,
+          "title": "Holy shit I made my human dog food way too spicy",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912042645184425",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "Coloring the faces of the \"exploding icosidodecahedron\" at #pcmisummer\n#mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912042645184425",
+          "publishedOn": "2024-08-05T23:37:21.000Z",
+          "wordCount": 121,
+          "title": "Coloring the faces of the \"exploding icosidodecahedron\" at #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/042/470/007/925/original/fff1db2133278e10.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@cal_armstrong/112912029427828730",
+          "author": "noreply@mathstodon.xyz (cal_armstrong)",
+          "description": "Glen Whitney (center, grey shirt) Orchestrating his geometric constructions at #pcmisummer\n#mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
+          "link": "https://mathstodon.xyz/@cal_armstrong/112912029427828730",
+          "publishedOn": "2024-08-05T23:33:59.000Z",
+          "wordCount": 121,
+          "title": "Glen Whitney (center, grey shirt) Orchestrating his geometric constructions at #pcmisummer #mtbos",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/029/301/155/172/original/d99dbfb6d68782f7.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@gdrossi/112912005595298620",
+          "author": "noreply@mathstodon.xyz (gdrossi)",
+          "description": "Juegan las blancas.\nPosición de la partida Zhigalko – Durarbayli, Dresden, 2007.\n- Gerardo Daniel Rossi (gdrossi) August 5, 2024",
+          "link": "https://mathstodon.xyz/@gdrossi/112912005595298620",
+          "publishedOn": "2024-08-05T23:27:56.000Z",
+          "wordCount": 123,
+          "title": "Juegan las blancas. Posición de la partida Zhigalko – Durarbayli, Dresden, 2007.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/912/005/378/504/366/original/8ca4fb247e26613d.gif"
+        },
+        {
           "id": "https://mathstodon.xyz/@matematico314/112895267921058400",
           "author": "noreply@mathstodon.xyz (matematico314)",
           "description": "#LB Unfortunately I don't understand enough category theory to really appreciate this joke, but it is funny to notice out that this meme now has also mathematical versions 🤣.\nhttps://mathstodon.xyz/@zanzi/112894829923298192\n- Matemático Fã do Euler (matematico314) August 2, 2024",
@@ -2703,106 +2803,6 @@
           "publishedOn": "2024-07-07T23:49:30.000Z",
           "wordCount": 115,
           "title": "#Connections Puzzle #393 🟦🟦🟨🟦 🟦🟦🟦🟦 🟩🟩🟩🟩 🟨🟨🟨🟨 🟪🟪🟪🟪",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@laurentoget/112742423592695895",
-          "author": "@laurentoget",
-          "description": "Toronto for a few minutes\n- laurent oget (@laurentoget) July 6, 2024",
-          "link": "https://mathstodon.xyz/@laurentoget/112742423592695895",
-          "publishedOn": "2024-07-07T00:40:59.000Z",
-          "wordCount": 119,
-          "title": "Toronto for a few minutes",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/742/416/256/136/012/original/6ab951303493704d.jpg"
-        },
-        {
-          "id": "https://mathstodon.xyz/@Marcy/112742407925085011",
-          "author": "@Marcy",
-          "description": "- Marcy (@Marcy) July 6, 2024",
-          "link": "https://mathstodon.xyz/@Marcy/112742407925085011",
-          "publishedOn": "2024-07-07T00:37:00.000Z",
-          "wordCount": 114,
-          "title": "an image",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/742/407/466/150/403/original/6a43c448c296fc93.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@JordiGH/112742342231178705",
-          "author": "@JordiGH",
-          "description": "Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time.\nWe're already suited up for heading into the woods!\n- JordiGH (@JordiGH) July 6, 2024",
-          "link": "https://mathstodon.xyz/@JordiGH/112742342231178705",
-          "publishedOn": "2024-07-07T00:20:18.000Z",
-          "wordCount": 120,
-          "title": "Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time. We're already suited up for heading into the woods!",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/742/340/623/530/773/original/f01a66be7133b7b1.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@ColinTheMathmo/112742176260903039",
-          "author": "@ColinTheMathmo",
-          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5\n- Colin the Mathmo (@ColinTheMathmo) July 6, 2024",
-          "link": "https://mathstodon.xyz/@ColinTheMathmo/112742176260903039",
-          "publishedOn": "2024-07-06T23:38:06.000Z",
-          "wordCount": 124,
-          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@caten/112742173259789473",
-          "author": "@caten",
-          "description": "I'm happy to announce that I now appear on Spectra's Outlist!\nhttps://lgbtmath.org/People.html\nI've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall.\n#math #lgbt #queer #academia #visibility\n- Charlotte Aten (@caten) July 6, 2024",
-          "link": "https://mathstodon.xyz/@caten/112742173259789473",
-          "publishedOn": "2024-07-06T23:37:20.000Z",
-          "wordCount": 124,
-          "title": "I'm happy to announce that I now appear on Spectra's Outlist! https://lgbtmath.org/People.html I've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall. #math #lgbt #queer #academia #visibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112742152798117209",
-          "author": "@markusde",
-          "description": "I'll proved two trivial lemmas, still a W\n- Classical Proover (@markusde) July 6, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112742152798117209",
-          "publishedOn": "2024-07-06T23:32:07.000Z",
-          "wordCount": 122,
-          "title": "Replied to: This integral ain't happening today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112742150581901951",
-          "author": "@markusde",
-          "description": "This integral ain't happening today\n- Classical Proover (@markusde) July 6, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112742150581901951",
-          "publishedOn": "2024-07-06T23:31:34.000Z",
-          "wordCount": 119,
-          "title": "This integral ain't happening today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@antoinechambertloir/112742062037122629",
-          "author": "@antoinechambertloir",
-          "description": "#MetsVoteDansUnTitre \nOn se calme et on vote frais à Saint Tropez\n- ⏚ Antoine Chambert-Loir (@antoinechambertloir) July 6, 2024",
-          "link": "https://mathstodon.xyz/@antoinechambertloir/112742062037122629",
-          "publishedOn": "2024-07-06T23:09:03.000Z",
-          "wordCount": 123,
-          "title": "#MetsVoteDansUnTitre On se calme et on vote frais à Saint Tropez",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@logicbot/112742026779365070",
-          "author": "@logicbot",
-          "description": "((¬a⇿¬b)⇾(b⇾b))\n- Logic Bot (@logicbot) July 6, 2024",
-          "link": "https://mathstodon.xyz/@logicbot/112742026779365070",
-          "publishedOn": "2024-07-06T23:00:05.000Z",
-          "wordCount": 115,
-          "title": "((¬a⇿¬b)⇾(b⇾b))",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@beggarmyneighbour/112742026691482909",
-          "author": "@beggarmyneighbour",
-          "description": "👨👉 9♠️\n👨👉 K♦️\n- Beggar-my-neighbour forever (@beggarmyneighbour) July 6, 2024",
-          "link": "https://mathstodon.xyz/@beggarmyneighbour/112742026691482909",
-          "publishedOn": "2024-07-06T23:00:03.000Z",
-          "wordCount": 118,
-          "title": "👨👉 9♠️ 👨👉 K♦️",
           "imageUrl": null
         }
       ]

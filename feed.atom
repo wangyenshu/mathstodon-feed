@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangyenshu.github.io/mathstodon-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-05T00:50:40.695Z</updated>
+    <updated>2024-08-06T00:48:46.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://wangyenshu.github.io/mathstodon-feed/index.html"/>
     <link rel="self" href="https://wangyenshu.github.io/mathstodon-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After a brief delay due to pipe cleaner shortage, final assembly begins at #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912301833724422</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912301833724422"/>
+        <updated>2024-08-06T00:43:16.000Z</updated>
+        <summary type="html"><![CDATA[After a brief delay due to pipe cleaner shortage, final assembly begins at #pcmisummer
+#mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing the diagonals of the exploded icosidodecahedron #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912215258825538</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912215258825538"/>
+        <updated>2024-08-06T00:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Securing the diagonals of the exploded icosidodecahedron
+#pcmisummer #mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glen preparing the rigging for the exploded icosidodecahedron #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912153030327335</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912153030327335"/>
+        <updated>2024-08-06T00:05:25.000Z</updated>
+        <summary type="html"><![CDATA[Glen preparing the rigging for the exploded icosidodecahedron
+#pcmisummer #mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not satisfied with a one-meter-diameter "exploded icosidodecahedron", they're doubling a dimension. #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912102670787498</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912102670787498"/>
+        <updated>2024-08-05T23:52:37.000Z</updated>
+        <summary type="html"><![CDATA[Not satisfied with a one-meter-diameter "exploded icosidodecahedron", they're doubling a dimension.
+#pcmisummer #mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A busy night at #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912080131055808</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912080131055808"/>
+        <updated>2024-08-05T23:46:53.000Z</updated>
+        <summary type="html"><![CDATA[A busy night at #pcmisummer
+#mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I really thought I would be able to stream tonight, but even though I've recovered from covid I'm still not doing well with the jetlag from returning from Asia. It still feels very late in the day to me at this time, and I don't think anyone wants to watch me try to do math when I can't keep my eyes open. I hope to be fully back to normal next week!]]></title>
+        <id>https://mathstodon.xyz/@caten/112912076162513717</id>
+        <link href="https://mathstodon.xyz/@caten/112912076162513717"/>
+        <updated>2024-08-05T23:45:52.000Z</updated>
+        <summary type="html"><![CDATA[I really thought I would be able to stream tonight, but even though I've recovered from covid I'm still not doing well with the jetlag from returning from Asia. It still feels very late in the day to me at this time, and I don't think anyone wants to watch me try to do math when I can't keep my eyes open. I hope to be fully back to normal next week!
+- Charlotte Aten (caten) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (caten)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holy shit I made my human dog food way too spicy]]></title>
+        <id>https://mathstodon.xyz/@markusde/112912070926826424</id>
+        <link href="https://mathstodon.xyz/@markusde/112912070926826424"/>
+        <updated>2024-08-05T23:44:32.000Z</updated>
+        <summary type="html"><![CDATA[Holy shit I made my human dog food way too spicy
+- Bad Attitude Markus (markusde) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (markusde)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coloring the faces of the "exploding icosidodecahedron" at #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912042645184425</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912042645184425"/>
+        <updated>2024-08-05T23:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Coloring the faces of the "exploding icosidodecahedron" at #pcmisummer
+#mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glen Whitney (center, grey shirt) Orchestrating his geometric constructions at #pcmisummer #mtbos]]></title>
+        <id>https://mathstodon.xyz/@cal_armstrong/112912029427828730</id>
+        <link href="https://mathstodon.xyz/@cal_armstrong/112912029427828730"/>
+        <updated>2024-08-05T23:33:59.000Z</updated>
+        <summary type="html"><![CDATA[Glen Whitney (center, grey shirt) Orchestrating his geometric constructions at #pcmisummer
+#mtbos
+- Cal Armstrong (cal_armstrong) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (cal_armstrong)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juegan las blancas. Posición de la partida Zhigalko – Durarbayli, Dresden, 2007.]]></title>
+        <id>https://mathstodon.xyz/@gdrossi/112912005595298620</id>
+        <link href="https://mathstodon.xyz/@gdrossi/112912005595298620"/>
+        <updated>2024-08-05T23:27:56.000Z</updated>
+        <summary type="html"><![CDATA[Juegan las blancas.
+Posición de la partida Zhigalko – Durarbayli, Dresden, 2007.
+- Gerardo Daniel Rossi (gdrossi) August 5, 2024]]></summary>
+        <author>
+            <name>noreply@mathstodon.xyz (gdrossi)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[#LB Unfortunately I don't understand enough category theory to really appreciate this joke, but it is funny to notice out that this meme now has also mathematical versions 🤣. https://mathstodon.xyz/@zanzi/112894829923298192]]></title>
         <id>https://mathstodon.xyz/@matematico314/112895267921058400</id>
@@ -3304,121 +3422,6 @@ Puzzle #393
 - olligobber (@olligobber) July 7, 2024]]></summary>
         <author>
             <name>@olligobber</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toronto for a few minutes]]></title>
-        <id>https://mathstodon.xyz/@laurentoget/112742423592695895</id>
-        <link href="https://mathstodon.xyz/@laurentoget/112742423592695895"/>
-        <updated>2024-07-07T00:40:59.000Z</updated>
-        <summary type="html"><![CDATA[Toronto for a few minutes
-- laurent oget (@laurentoget) July 6, 2024]]></summary>
-        <author>
-            <name>@laurentoget</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[an image]]></title>
-        <id>https://mathstodon.xyz/@Marcy/112742407925085011</id>
-        <link href="https://mathstodon.xyz/@Marcy/112742407925085011"/>
-        <updated>2024-07-07T00:37:00.000Z</updated>
-        <summary type="html"><![CDATA[- Marcy (@Marcy) July 6, 2024]]></summary>
-        <author>
-            <name>@Marcy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time. We're already suited up for heading into the woods!]]></title>
-        <id>https://mathstodon.xyz/@JordiGH/112742342231178705</id>
-        <link href="https://mathstodon.xyz/@JordiGH/112742342231178705"/>
-        <updated>2024-07-07T00:20:18.000Z</updated>
-        <summary type="html"><![CDATA[Tonight @Not_mermista and I will be streaming Full Quiet! I've been wanting to try this one out for a long time.
-We're already suited up for heading into the woods!
-- JordiGH (@JordiGH) July 6, 2024]]></summary>
-        <author>
-            <name>@JordiGH</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5]]></title>
-        <id>https://mathstodon.xyz/@ColinTheMathmo/112742176260903039</id>
-        <link href="https://mathstodon.xyz/@ColinTheMathmo/112742176260903039"/>
-        <updated>2024-07-06T23:38:06.000Z</updated>
-        <summary type="html"><![CDATA[In about half an hour, #UK_ISS #ISS pass, starting at 01:09:15, duration 332 secs, exceptionally bright, Magnitude -3.5
-- Colin the Mathmo (@ColinTheMathmo) July 6, 2024]]></summary>
-        <author>
-            <name>@ColinTheMathmo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm happy to announce that I now appear on Spectra's Outlist! https://lgbtmath.org/People.html I've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall. #math #lgbt #queer #academia #visibility]]></title>
-        <id>https://mathstodon.xyz/@caten/112742173259789473</id>
-        <link href="https://mathstodon.xyz/@caten/112742173259789473"/>
-        <updated>2024-07-06T23:37:20.000Z</updated>
-        <summary type="html"><![CDATA[I'm happy to announce that I now appear on Spectra's Outlist!
-https://lgbtmath.org/People.html
-I've been a member of the Google group for a while, and I'm pleased to be listed as a resource for other queer people in the math community. If you want to ask me about CU Boulder you'll have to wait though, as I'm just starting my postdoc there in the fall.
-#math #lgbt #queer #academia #visibility
-- Charlotte Aten (@caten) July 6, 2024]]></summary>
-        <author>
-            <name>@caten</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Replied to: This integral ain't happening today]]></title>
-        <id>https://mathstodon.xyz/@markusde/112742152798117209</id>
-        <link href="https://mathstodon.xyz/@markusde/112742152798117209"/>
-        <updated>2024-07-06T23:32:07.000Z</updated>
-        <summary type="html"><![CDATA[I'll proved two trivial lemmas, still a W
-- Classical Proover (@markusde) July 6, 2024]]></summary>
-        <author>
-            <name>@markusde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This integral ain't happening today]]></title>
-        <id>https://mathstodon.xyz/@markusde/112742150581901951</id>
-        <link href="https://mathstodon.xyz/@markusde/112742150581901951"/>
-        <updated>2024-07-06T23:31:34.000Z</updated>
-        <summary type="html"><![CDATA[This integral ain't happening today
-- Classical Proover (@markusde) July 6, 2024]]></summary>
-        <author>
-            <name>@markusde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#MetsVoteDansUnTitre On se calme et on vote frais à Saint Tropez]]></title>
-        <id>https://mathstodon.xyz/@antoinechambertloir/112742062037122629</id>
-        <link href="https://mathstodon.xyz/@antoinechambertloir/112742062037122629"/>
-        <updated>2024-07-06T23:09:03.000Z</updated>
-        <summary type="html"><![CDATA[#MetsVoteDansUnTitre 
-On se calme et on vote frais à Saint Tropez
-- ⏚ Antoine Chambert-Loir (@antoinechambertloir) July 6, 2024]]></summary>
-        <author>
-            <name>@antoinechambertloir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[((¬a⇿¬b)⇾(b⇾b))]]></title>
-        <id>https://mathstodon.xyz/@logicbot/112742026779365070</id>
-        <link href="https://mathstodon.xyz/@logicbot/112742026779365070"/>
-        <updated>2024-07-06T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[((¬a⇿¬b)⇾(b⇾b))
-- Logic Bot (@logicbot) July 6, 2024]]></summary>
-        <author>
-            <name>@logicbot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[👨👉 9♠️ 👨👉 K♦️]]></title>
-        <id>https://mathstodon.xyz/@beggarmyneighbour/112742026691482909</id>
-        <link href="https://mathstodon.xyz/@beggarmyneighbour/112742026691482909"/>
-        <updated>2024-07-06T23:00:03.000Z</updated>
-        <summary type="html"><![CDATA[👨👉 9♠️
-👨👉 K♦️
-- Beggar-my-neighbour forever (@beggarmyneighbour) July 6, 2024]]></summary>
-        <author>
-            <name>@beggarmyneighbour</name>
         </author>
     </entry>
 </feed>
