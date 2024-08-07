@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@PfaffCatherine/112917973612202651",
+          "author": "noreply@mathstodon.xyz (PfaffCatherine)",
+          "description": "When one isn't sure of what's actually true, sometimes it helps to just compute it all, or at least it feels good to do so :D.\n- Prof Catherine Pfaff, PhD (PfaffCatherine) August 6, 2024",
+          "link": "https://mathstodon.xyz/@PfaffCatherine/112917973612202651",
+          "publishedOn": "2024-08-07T00:45:40.000Z",
+          "wordCount": 125,
+          "title": "When one isn't sure of what's actually true, sometimes it helps to just compute it all, or at least it feels good to do so :D.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/917/966/640/418/667/original/aec6fe2eeea033f9.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@j2kun/112917917348197001",
+          "author": "noreply@mathstodon.xyz (j2kun)",
+          "description": "Another day, another dad achievement: fixing a broken bar clamp. The springs just fell off?? Was able to reassemble by taking apart my other one and using it as a reference.\n- Jeremy Kun (j2kun) August 6, 2024",
+          "link": "https://mathstodon.xyz/@j2kun/112917917348197001",
+          "publishedOn": "2024-08-07T00:31:22.000Z",
+          "wordCount": 122,
+          "title": "Another day, another dad achievement: fixing a broken bar clamp. The springs just fell off?? Was able to reassemble by taking apart my other one and using it as a reference.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@tuxsaveus/112917894107205390",
+          "author": "noreply@mathstodon.xyz (tuxsaveus)",
+          "description": "lol\n- 🇲🇽🐧🖥🎵🕹🍺Y͢i͢Z͢u͢X͢🎮⛸📱 (tuxsaveus) August 6, 2024",
+          "link": "https://mathstodon.xyz/@tuxsaveus/112917894107205390",
+          "publishedOn": "2024-08-07T00:25:27.000Z",
+          "wordCount": 114,
+          "title": "lol",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/917/892/375/894/406/original/9acfb5b27394f1b8.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@diracdeltafunk/112917691971636082",
+          "author": "noreply@mathstodon.xyz (diracdeltafunk)",
+          "description": "Just made it to Indianapolis for #MathFest24! DM me if you're around and want to grab a coffee :)\n- Ben Spitz (diracdeltafunk) August 6, 2024",
+          "link": "https://mathstodon.xyz/@diracdeltafunk/112917691971636082",
+          "publishedOn": "2024-08-06T23:34:03.000Z",
+          "wordCount": 123,
+          "title": "Just made it to Indianapolis for #MathFest24! DM me if you're around and want to grab a coffee :)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@tim/112917610047746562",
+          "author": "noreply@mathstodon.xyz (tim)",
+          "description": "Finally. Road construction project at Planckstraße.\n- Tim Richardt (tim) August 6, 2024",
+          "link": "https://mathstodon.xyz/@tim/112917610047746562",
+          "publishedOn": "2024-08-06T23:13:13.000Z",
+          "wordCount": 120,
+          "title": "Finally. Road construction project at Planckstraße.",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/917/604/192/885/775/original/7eedbc84d7efc759.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@logicbot/112917558694362123",
+          "author": "noreply@mathstodon.xyz (logicbot)",
+          "description": "((¬a⇾¬a)⇿(b⇾b))\n- Logic Bot (logicbot) August 6, 2024",
+          "link": "https://mathstodon.xyz/@logicbot/112917558694362123",
+          "publishedOn": "2024-08-06T23:00:09.000Z",
+          "wordCount": 115,
+          "title": "((¬a⇾¬a)⇿(b⇾b))",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@beggarmyneighbour/112917558687297112",
+          "author": "noreply@mathstodon.xyz (beggarmyneighbour)",
+          "description": "👨👉 K♠️\n- Beggar-my-neighbour forever (beggarmyneighbour) August 6, 2024",
+          "link": "https://mathstodon.xyz/@beggarmyneighbour/112917558687297112",
+          "publishedOn": "2024-08-06T23:00:09.000Z",
+          "wordCount": 116,
+          "title": "👨👉 K♠️",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@blugol13/112917554657434418",
+          "author": "noreply@mathstodon.xyz (blugol13)",
+          "description": "WordStar 7, the last ever DOS version, re-released for free • The Register https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/\n- bluegol (blugol13) August 6, 2024",
+          "link": "https://mathstodon.xyz/@blugol13/112917554657434418",
+          "publishedOn": "2024-08-06T22:59:07.000Z",
+          "wordCount": 121,
+          "title": "WordStar 7, the last ever DOS version, re-released for free • The Register https://www.theregister.com/2024/08/06/wordstar_7_the_last_ever/",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@jwestall_com/112917544444697893",
+          "author": "noreply@mathstodon.xyz (jwestall_com)",
+          "description": "I'm the best at commenting my git commits\n- jacob (jwestall_com) August 6, 2024",
+          "link": "https://mathstodon.xyz/@jwestall_com/112917544444697893",
+          "publishedOn": "2024-08-06T22:56:32.000Z",
+          "wordCount": 121,
+          "title": "I'm the best at commenting my git commits",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/917/543/682/566/003/original/c6e867d6883f59e8.png"
+        },
+        {
+          "id": "https://mathstodon.xyz/@dancer_storm/112917515221768337",
+          "author": "noreply@mathstodon.xyz (dancer_storm)",
+          "description": "My hottest take is that there should be government-run social media. Maybe just subsidizing federated servers could work too.\n1. Think public health: it's government run because it has massive positive externalities. Social media does too (even if it doesn't feel like it with the stuff we have today). Also public health works to compete and discipline private health. Public social media might help prevent #enshittification of private platforms.\n2. Think public libraries: they're government run because media goods are typically nonrival. If one girl writes a tutorial for anything on reddit, this benefits infinitely many people. There won't be any money exchanges, so platforms will \"extract value\" with ads and making our lives worse. A public library doesn't need to do that, so you never have to fear they did some stupid SEO in their catalog and are now showing some AI generated tutorial that doesn't work.\n3. We already have a good idea of what people want. Forums, chats, public text and image posts. Leave big innovations to private companies, but run decent robust government-run platforms, see #1.\nIf you've read an article or watched a video about this idea that takes it more seriously, leave it in the comments, I would love to read it!\n- economística (dancer_storm) August 6, 2024",
+          "link": "https://mathstodon.xyz/@dancer_storm/112917515221768337",
+          "publishedOn": "2024-08-06T22:49:06.000Z",
+          "wordCount": 122,
+          "title": "My hottest take is that there should be government-run social media. Maybe just subsidizing federated servers could work too. 1. Think public health: it's government run because it has massive positive externalities. Social media does too (even if it doesn't feel like it with the stuff we have today). Also public health works to compete and discipline private health. Public social media might help prevent #enshittification of private platforms. 2. Think public libraries: they're government run because media goods are typically nonrival. If one girl writes a tutorial for anything on reddit, this benefits infinitely many people. There won't be any money exchanges, so platforms will \"extract value\" with ads and making our lives worse. A public library doesn't need to do that, so you never have to fear they did some stupid SEO in their catalog and are now showing some AI generated tutorial that doesn't work. 3.…",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@cal_armstrong/112912301833724422",
           "author": "noreply@mathstodon.xyz (cal_armstrong)",
           "description": "After a brief delay due to pipe cleaner shortage, final assembly begins at #pcmisummer\n#mtbos\n- Cal Armstrong (cal_armstrong) August 5, 2024",
@@ -2703,106 +2803,6 @@
           "publishedOn": "2024-07-08T23:50:46.000Z",
           "wordCount": 123,
           "title": "My next Math Research Livestream starts in about 10 minutes on Twitch! Check it out at https://www.twitch.tv/charlotteaten. This week I'm going to work on improving the presentation of the main theorem in my quasigroup manifolds paper (https://arxiv.org/abs/2110.05660). #math #livestream #Twitch #research #AbstractAlgebra #algebra #topology #UniversalAlgebra #CategoryTheory",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@ramirez/112748030085528999",
-          "author": "@ramirez",
-          "description": "¡generoso ha sido el bosque que aunque le tratamos tan mal nos sigue regalando estas delicias! \nHongos de San Juan (Amanita caesarea)\n- Giovanni Ramírez (@ramirez) July 7, 2024",
-          "link": "https://mathstodon.xyz/@ramirez/112748030085528999",
-          "publishedOn": "2024-07-08T00:26:48.000Z",
-          "wordCount": 123,
-          "title": "¡generoso ha sido el bosque que aunque le tratamos tan mal nos sigue regalando estas delicias! Hongos de San Juan (Amanita caesarea)",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/748/025/468/038/619/original/1c76aab9d436a385.jpg"
-        },
-        {
-          "id": "https://mathstodon.xyz/@ColinTheMathmo/112748015403925341",
-          "author": "@ColinTheMathmo",
-          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 01:56:10, duration 396 secs, exceptionally bright, Magnitude -3.9\n- Colin the Mathmo (@ColinTheMathmo) July 7, 2024",
-          "link": "https://mathstodon.xyz/@ColinTheMathmo/112748015403925341",
-          "publishedOn": "2024-07-08T00:23:04.000Z",
-          "wordCount": 124,
-          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 01:56:10, duration 396 secs, exceptionally bright, Magnitude -3.9",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@graveolensa/112748006312386829",
-          "author": "@graveolensa",
-          "description": "- Owen Maresh (@graveolensa) July 7, 2024",
-          "link": "https://mathstodon.xyz/@graveolensa/112748006312386829",
-          "publishedOn": "2024-07-08T00:20:45.000Z",
-          "wordCount": 115,
-          "title": "an image",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/748/005/902/133/212/original/02babad6f9e63d07.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@AmenZwa/112748003942650276",
-          "author": "@AmenZwa",
-          "description": "#France, phew....\nhttps://youtu.be/KIV21rQfTyg?si=E2pyKJ845ZMPOrQI\n- amen zwa, esq. (@AmenZwa) July 7, 2024",
-          "link": "https://mathstodon.xyz/@AmenZwa/112748003942650276",
-          "publishedOn": "2024-07-08T00:20:09.000Z",
-          "wordCount": 118,
-          "title": "#France, phew.... https://youtu.be/KIV21rQfTyg?si=E2pyKJ845ZMPOrQI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@mjd/112747970414024761",
-          "author": "@mjd",
-          "description": "“One learns in time that the right to be indignant at either inclusion or exclusion—at either ‘putting Congress on the spot’ or ‘bypassing’ it—is a congressional prerogative, highly prized.”\n(Dean Acheson, “Present at the Creation”)\n- Mark Dominus (@mjd) July 7, 2024",
-          "link": "https://mathstodon.xyz/@mjd/112747970414024761",
-          "publishedOn": "2024-07-08T00:11:37.000Z",
-          "wordCount": 124,
-          "title": "“One learns in time that the right to be indignant at either inclusion or exclusion—at either ‘putting Congress on the spot’ or ‘bypassing’ it—is a congressional prerogative, highly prized.” (Dean Acheson, “Present at the Creation”)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@ccanonne/112747953534235190",
-          "author": "@ccanonne",
-          "description": "🧩 Here's a small Sunday #math procrastination-puzzle.\n- Clément Canonne (@ccanonne) July 7, 2024",
-          "link": "https://mathstodon.xyz/@ccanonne/112747953534235190",
-          "publishedOn": "2024-07-08T00:07:20.000Z",
-          "wordCount": 121,
-          "title": "🧩 Here's a small Sunday #math procrastination-puzzle.",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/747/952/715/130/740/original/ab62dec09b4b1e0e.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@owenbiesel/112747934622162436",
-          "author": "@owenbiesel",
-          "description": "I made a #solarpunk flag out of construction paper, with a center wheel that rotates the sun's rays and gear's cogs:\n- Owen Biesel (@owenbiesel) July 7, 2024",
-          "link": "https://mathstodon.xyz/@owenbiesel/112747934622162436",
-          "publishedOn": "2024-07-08T00:02:31.000Z",
-          "wordCount": 123,
-          "title": "I made a #solarpunk flag out of construction paper, with a center wheel that rotates the sun's rays and gear's cogs:",
-          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/747/925/029/049/223/small/262bdecfe4d9805f.png"
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112747893891044292",
-          "author": "@markusde",
-          "description": "Oh yeah the other half of this idea is that when I fill it up I'm gonna BURN IT WITH FIRE HAHAHAHAH!!!!!! I specifically sought out a 100% recycled paper notebook for this purpose.\n- Classical Proover (@markusde) July 7, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112747893891044292",
-          "publishedOn": "2024-07-07T23:52:10.000Z",
-          "wordCount": 126,
-          "title": "Replied to: I did impulsively buy a journal today with the idea that I'd start writing my constant stream of whining posts in there instead",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@seanreid/112747885164226077",
-          "author": "@seanreid",
-          "description": "My newest album, \"City in the Trees\" is out today.\nwith nature under siege\nthe birds sing quietly\na different melody\na city in the trees\nStream for free on Bandcamp:\nhttps://seanmreid.bandcamp.com/album/city-in-the-trees\n- Sean Reid (@seanreid) July 7, 2024",
-          "link": "https://mathstodon.xyz/@seanreid/112747885164226077",
-          "publishedOn": "2024-07-07T23:49:56.000Z",
-          "wordCount": 124,
-          "title": "My newest album, \"City in the Trees\" is out today. with nature under siege the birds sing quietly a different melody a city in the trees Stream for free on Bandcamp: https://seanmreid.bandcamp.com/album/city-in-the-trees",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@olligobber/112747883401088662",
-          "author": "@olligobber",
-          "description": "#Connections \nPuzzle #393\n🟦🟦🟨🟦\n🟦🟦🟦🟦\n🟩🟩🟩🟩\n🟨🟨🟨🟨\n🟪🟪🟪🟪\n- olligobber (@olligobber) July 7, 2024",
-          "link": "https://mathstodon.xyz/@olligobber/112747883401088662",
-          "publishedOn": "2024-07-07T23:49:30.000Z",
-          "wordCount": 115,
-          "title": "#Connections Puzzle #393 🟦🟦🟨🟦 🟦🟦🟦🟦 🟩🟩🟩🟩 🟨🟨🟨🟨 🟪🟪🟪🟪",
           "imageUrl": null
         }
       ]
