@@ -6,6 +6,106 @@
       "siteUrl": "https://mathstodon.xyz/public/local",
       "articles": [
         {
+          "id": "https://mathstodon.xyz/@psu_13/112929299403451352",
+          "author": "noreply@mathstodon.xyz (psu_13)",
+          "description": "I wonder if I can explain Penrose diagrams in a web page.\n- psu_13 (psu_13) August 8, 2024",
+          "link": "https://mathstodon.xyz/@psu_13/112929299403451352",
+          "publishedOn": "2024-08-09T00:45:58.000Z",
+          "wordCount": 124,
+          "title": "I wonder if I can explain Penrose diagrams in a web page.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@HydrePrever/112929295608303285",
+          "author": "noreply@mathstodon.xyz (HydrePrever)",
+          "description": "Le soleil va bientôt se lever dans mon coin de paradis (que je vais perdre dans quelques heures)...\n- Le Néandertal nananar (HydrePrever) August 8, 2024",
+          "link": "https://mathstodon.xyz/@HydrePrever/112929295608303285",
+          "publishedOn": "2024-08-09T00:45:00.000Z",
+          "wordCount": 126,
+          "title": "Le soleil va bientôt se lever dans mon coin de paradis (que je vais perdre dans quelques heures)...",
+          "imageUrl": "https://media.mathstodon.xyz/media_attachments/files/112/929/291/977/603/488/original/8408f5ce4bb4516c.jpg"
+        },
+        {
+          "id": "https://mathstodon.xyz/@seanreid/112929295048446007",
+          "author": "noreply@mathstodon.xyz (seanreid)",
+          "description": "on this day, 50 years ago, Richard Nixon resigns\n30 years pass\nto the DAY\nand this happens\nhttps://en.wikipedia.org/wiki/Dave_Matthews_Band_Chicago_River_incident?wprov=sfti1\ncoincidence? you tell me\n- Sean Reid (seanreid) August 8, 2024",
+          "link": "https://mathstodon.xyz/@seanreid/112929295048446007",
+          "publishedOn": "2024-08-09T00:44:52.000Z",
+          "wordCount": 124,
+          "title": "on this day, 50 years ago, Richard Nixon resigns 30 years pass to the DAY and this happens https://en.wikipedia.org/wiki/Dave_Matthews_Band_Chicago_River_incident?wprov=sfti1 coincidence? you tell me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@Breakfastisready/112929183283556125",
+          "author": "noreply@mathstodon.xyz (Breakfastisready)",
+          "description": "What the hell is a \\(\\mathbb{Q}\\)-split torus? \nI wish someone could explain this to me in the language of human beings.\n- Breakfastisready नाश्तातैयारहै (Breakfastisready) August 8, 2024",
+          "link": "https://mathstodon.xyz/@Breakfastisready/112929183283556125",
+          "publishedOn": "2024-08-09T00:16:26.000Z",
+          "wordCount": 122,
+          "title": "What the hell is a \\(\\mathbb{Q}\\)-split torus? I wish someone could explain this to me in the language of human beings.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112929161881513468",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "So fucking close to being done with this godforsaken reduction please god just let me finish it\n\n            \nIt's always the most unexpected things which end up being the sludgiest isn't it\n- Bad Attitude Markus (markusde) August 8, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112929161881513468",
+          "publishedOn": "2024-08-09T00:11:00.000Z",
+          "wordCount": 124,
+          "title": "Replied to: So fucking close to being done with this godforsaken reduction please god just let me finish it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@markusde/112929159282758116",
+          "author": "noreply@mathstodon.xyz (markusde)",
+          "description": "So fucking close to being done with this godforsaken reduction please god just let me finish it\n- Bad Attitude Markus (markusde) August 8, 2024",
+          "link": "https://mathstodon.xyz/@markusde/112929159282758116",
+          "publishedOn": "2024-08-09T00:10:20.000Z",
+          "wordCount": 124,
+          "title": "So fucking close to being done with this godforsaken reduction please god just let me finish it",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@amcsquared/112929139879666022",
+          "author": "noreply@mathstodon.xyz (amcsquared)",
+          "description": "Tricky one today!\n#CellTower 827\n➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️\nhttps://www.andrewt.net/puzzles/cell-tower/?p=827\n- Audrey McLaren (amcsquared) August 8, 2024",
+          "link": "https://mathstodon.xyz/@amcsquared/112929139879666022",
+          "publishedOn": "2024-08-09T00:05:24.000Z",
+          "wordCount": 120,
+          "title": "Tricky one today! #CellTower 827 ➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️➡️ https://www.andrewt.net/puzzles/cell-tower/?p=827",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@sprout/112929050537090554",
+          "author": "noreply@mathstodon.xyz (sprout)",
+          "description": "Dependency on C++. I have 4 dependencies, ICU4C, FMT, FFI, and gnu lightning.\nFor each dependency you have three manners of compiling them in: operating supplied dynamic library, self compiled dynamic library, or static linkage.\nThat gives 3**4 = 81 ways of building the interpreter.\nGreat.\n- Marco Devillers (sprout) August 8, 2024",
+          "link": "https://mathstodon.xyz/@sprout/112929050537090554",
+          "publishedOn": "2024-08-08T23:42:41.000Z",
+          "wordCount": 123,
+          "title": "Dependency on C++. I have 4 dependencies, ICU4C, FMT, FFI, and gnu lightning. For each dependency you have three manners of compiling them in: operating supplied dynamic library, self compiled dynamic library, or static linkage. That gives 3**4 = 81 ways of building the interpreter. Great.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@MotivicKyle/112929000603965718",
+          "author": "noreply@mathstodon.xyz (MotivicKyle)",
+          "description": "If someone uses your monograph as an epigraph, it becomes an isograph.\n- χle Ormsby — π₃(🪩) ≅ ℤ era (MotivicKyle) August 8, 2024",
+          "link": "https://mathstodon.xyz/@MotivicKyle/112929000603965718",
+          "publishedOn": "2024-08-08T23:29:59.000Z",
+          "wordCount": 128,
+          "title": "If someone uses your monograph as an epigraph, it becomes an isograph.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mathstodon.xyz/@funkaspuck/112928957378003523",
+          "author": "noreply@mathstodon.xyz (funkaspuck)",
+          "description": "One of my neighbors has a bumper sticker \"Make welfare as hard to get as a building permit\"\nI suspect I understand the sentiment he intends to express, but as someone who's had a bunch of permits pulled lately, I'm fairly certain the only requirement to GET a permit is money, which begs the question of if he understands either welfare or permits....\n- Xymon (funkaspuck) August 8, 2024",
+          "link": "https://mathstodon.xyz/@funkaspuck/112928957378003523",
+          "publishedOn": "2024-08-08T23:18:59.000Z",
+          "wordCount": 123,
+          "title": "One of my neighbors has a bumper sticker \"Make welfare as hard to get as a building permit\" I suspect I understand the sentiment he intends to express, but as someone who's had a bunch of permits pulled lately, I'm fairly certain the only requirement to GET a permit is money, which begs the question of if he understands either welfare or permits....",
+          "imageUrl": null
+        },
+        {
           "id": "https://mathstodon.xyz/@emjonaitis/112923540421728035",
           "author": "noreply@mathstodon.xyz (emjonaitis)",
           "description": "LB: neuroscientists should really check out Michele’s store (link below). Lots of beautiful watercolor artwork representing brains and neurons, among other things. Some microbes too for those of you more interested in that side of science! https://www.etsy.com/shop/artologica/\n- Erin Jonaitis (emjonaitis) August 7, 2024",
@@ -2703,106 +2803,6 @@
           "publishedOn": "2024-07-10T22:39:58.000Z",
           "wordCount": 127,
           "title": "ni'o la .varik. cu nelci lo xriso je lijda je cu tolnei lo so'i xriso lijda",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@jeanas/112759415600619166",
-          "author": "@jeanas",
-          "description": "Je viens de publier un billet de blog sur l'email et ses problèmes : spam, complexité, absence de sécurité, centralisation, etc.\nhttps://jean.abou-samra.fr/blog/email/\n- Jean Abou Samra (@jeanas) July 9, 2024",
-          "link": "https://mathstodon.xyz/@jeanas/112759415600619166",
-          "publishedOn": "2024-07-10T00:42:17.000Z",
-          "wordCount": 125,
-          "title": "Je viens de publier un billet de blog sur l'email et ses problèmes : spam, complexité, absence de sécurité, centralisation, etc. https://jean.abou-samra.fr/blog/email/",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@jared/112759367715124533",
-          "author": "@jared",
-          "description": "\"What was supposed to be roughly a week-long test flight to the ISS is now probably going to last months, as NASA and Boeing continue to delay Starliner’s return to Earth. They say they want to better understand a series of technical issues the spacecraft experienced since launching June 5 on its first crewed test flight to space.\"\n😮\n- Jared Davis (@jared) July 9, 2024",
-          "link": "https://mathstodon.xyz/@jared/112759367715124533",
-          "publishedOn": "2024-07-10T00:30:06.000Z",
-          "wordCount": 123,
-          "title": "\"What was supposed to be roughly a week-long test flight to the ISS is now probably going to last months, as NASA and Boeing continue to delay Starliner’s return to Earth. They say they want to better understand a series of technical issues the spacecraft experienced since launching June 5 on its first crewed test flight to space.\" 😮",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@ColinTheMathmo/112759359753977221",
-          "author": "@ColinTheMathmo",
-          "description": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:20, duration 396 secs, exceptionally bright, Magnitude -3.8\n- Colin the Mathmo (@ColinTheMathmo) July 9, 2024",
-          "link": "https://mathstodon.xyz/@ColinTheMathmo/112759359753977221",
-          "publishedOn": "2024-07-10T00:28:05.000Z",
-          "wordCount": 124,
-          "title": "In about half an hour, #UK_ISS #ISS pass, starting at 02:01:20, duration 396 secs, exceptionally bright, Magnitude -3.8",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@TSOJ/112759248639134076",
-          "author": "@TSOJ",
-          "description": "Escape Games 166: Journal 29, Book 3\nhttps://theblackchamber552383191.wordpress.com/2024/07/10/escape-games-166-journal-29-book-3/\n#reviews #escaperoomgames\n- The Black Chamber (@TSOJ) July 9, 2024",
-          "link": "https://mathstodon.xyz/@TSOJ/112759248639134076",
-          "publishedOn": "2024-07-09T23:59:49.000Z",
-          "wordCount": 123,
-          "title": "Escape Games 166: Journal 29, Book 3 https://theblackchamber552383191.wordpress.com/2024/07/10/escape-games-166-journal-29-book-3/ #reviews #escaperoomgames",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@markusde/112759206921993303",
-          "author": "@markusde",
-          "description": "I'm locked in (deciding to stay home instead of work out)\n- Capo (@markusde) July 9, 2024",
-          "link": "https://mathstodon.xyz/@markusde/112759206921993303",
-          "publishedOn": "2024-07-09T23:49:13.000Z",
-          "wordCount": 123,
-          "title": "I'm locked in (deciding to stay home instead of work out)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@dougmerritt/112759190651973124",
-          "author": "@dougmerritt",
-          "description": "A comathematician is a device that turns cotheorems into ffee.\n- DougMerritt (log😅 = 💧log😄) (@dougmerritt) July 9, 2024",
-          "link": "https://mathstodon.xyz/@dougmerritt/112759190651973124",
-          "publishedOn": "2024-07-09T23:45:05.000Z",
-          "wordCount": 124,
-          "title": "A comathematician is a device that turns cotheorems into ffee.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@blugol13/112759189486512277",
-          "author": "@blugol13",
-          "description": "RT anna (arar) meow 𓃠 on X:\ni am tearing up https://t.co/Vi5GsBfdX3\nhttps://x.com/meowkoteeq/status/1810719656417677819\n- bluegol (@blugol13) July 9, 2024",
-          "link": "https://mathstodon.xyz/@blugol13/112759189486512277",
-          "publishedOn": "2024-07-09T23:44:47.000Z",
-          "wordCount": 125,
-          "title": "RT anna (arar) meow 𓃠 on X: i am tearing up https://t.co/Vi5GsBfdX3 https://x.com/meowkoteeq/status/1810719656417677819",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@units/112759185454186006",
-          "author": "@units",
-          "description": "Ich habe einen spannenden Artikel gefunden. #KI Deal zwischen #ElonMusk und #Oracle geplatzt https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100445338/elon-musk-milliarden-deal-seiner-firma-xai-mit-oracle-platzt.html\n- Units of Measurement (@units) July 9, 2024",
-          "link": "https://mathstodon.xyz/@units/112759185454186006",
-          "publishedOn": "2024-07-09T23:43:45.000Z",
-          "wordCount": 123,
-          "title": "Ich habe einen spannenden Artikel gefunden. #KI Deal zwischen #ElonMusk und #Oracle geplatzt https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100445338/elon-musk-milliarden-deal-seiner-firma-xai-mit-oracle-platzt.html",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@bradheintz/112759105252846644",
-          "author": "@bradheintz",
-          "description": "A thing I enjoy about Mathstodon on the web, but which is a disappointing experience on mobile and native clients, is the \\(L^AT_EX\\) support.\nLike, to the point where (after the summer term and this class are over) I'm half tempted to find an open source client and do something about it.\n- Brad Heintz (@bradheintz) July 9, 2024",
-          "link": "https://mathstodon.xyz/@bradheintz/112759105252846644",
-          "publishedOn": "2024-07-09T23:23:21.000Z",
-          "wordCount": 125,
-          "title": "A thing I enjoy about Mathstodon on the web, but which is a disappointing experience on mobile and native clients, is the \\(L^AT_EX\\) support. Like, to the point where (after the summer term and this class are over) I'm half tempted to find an open source client and do something about it.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mathstodon.xyz/@bharathk98/112759099504218705",
-          "author": "@bharathk98",
-          "description": "@johncarlosbaez I was wondering if you know anyone who could help answer the paper in this post:\nhttps://mathstodon.xyz/@bharathk98/112758573926127919\nI heard you're very kind and the best person to go to on this site.\nThank You,\n@bharathk98\n- Bharath Krishnan (@bharathk98) July 9, 2024",
-          "link": "https://mathstodon.xyz/@bharathk98/112759099504218705",
-          "publishedOn": "2024-07-09T23:21:54.000Z",
-          "wordCount": 122,
-          "title": "@johncarlosbaez I was wondering if you know anyone who could help answer the paper in this post: https://mathstodon.xyz/@bharathk98/112758573926127919 I heard you're very kind and the best person to go to on this site. Thank You, @bharathk98",
           "imageUrl": null
         }
       ]
